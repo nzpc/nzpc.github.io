@@ -1,0 +1,87 @@
+﻿body {
+}
+/* NZPC styles added */
+.currency
+{
+    text-align:right;
+}
+.DataTable
+{
+    border-width: 1;
+    border-style:solid;
+    border-color:Black;
+    padding:1;
+
+}
+.TableHeader
+{
+    background-color:darkblue;
+    color:White;
+}
+.TableSortingHeader
+{
+    background-color:#BBB;
+    color:White;
+}
+.TableCell
+{
+   border-left-width:1;
+   border-left-color:Black;
+   border-right-width:1;
+   border-right-color:Black;
+}
+.TableRow
+{
+    background-color: White;
+    color:Black;
+   /* border-width: 1;
+    border-left-width:1;
+    border-style:solid;*/
+    border-color:Black;
+    padding:1;
+}
+.TableAlternateRow
+{
+    background-color:#f0f0f0;
+    color:Black;
+}
+/* My layout styles */
+.layoutTable
+{
+    width:60%;
+}
+.wideLayoutTable
+{
+    width:75%;
+}
+.column0
+{
+    width: 50px;
+    text-align:right;
+}
+.column1
+{
+    width: 25%;
+    text-align:right;
+}
+.column2
+{
+    width: 400px;
+}
+.column3
+{
+    width: 10px;
+}
+.column4
+{
+    width: 500px;
+}
+.error
+{
+    color:#ff0000;
+}
+
+.bold
+{
+    font-weight:bold;
+}
