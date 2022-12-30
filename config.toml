@@ -1,0 +1,4 @@
+baseURL = 'https://nzpc.github.io/'
+languageCode = 'en-us'
+title = 'New Zealand Programming Contest'
+disableKinds = ["taxonomy", "taxonomyTerm"]
