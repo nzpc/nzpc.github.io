@@ -17,10 +17,10 @@
   <header class="container d-flex flex-wrap align-items-center justify-content-center justify-content-md-start py-3 mb-4 border-bottom">
     <a href="/" class="navbar-brand"><img width="154" height="95" src="/images/NZPC-logo.png" alt="NZPC logo"></a>
     <ul class="nav nav-pills px-5 col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-      <li><a href="/" class="nav-link px-2 active">Home</a></li>
-      <li><a href="/about/" class="nav-link px-2">About NZPC</a></li>
-      <li><a href="/results/" class="nav-link px-2">Results</a></li>
-      <li><a href="/register/" class="nav-link px-2">Registration</a></li>
+      <li><a href="/" class="nav-link px-2{{if eq .Params.menu_hack "home"}} active{{end}}">Home</a></li>
+      <li><a href="/about/" class="nav-link px-2{{if eq .Params.menu_hack "about"}} active{{end}}">About NZPC</a></li>
+      <li><a href="/results/" class="nav-link px-2{{if eq .Params.menu_hack "results"}} active{{end}}">Results</a></li>
+      <li><a href="/register/" class="nav-link px-2{{if eq .Params.menu_hack "register"}} active{{end}}">Registration</a></li>
     </ul>
   </header>
   

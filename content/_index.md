@@ -1,6 +1,7 @@
 ---
 title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
+menu_hack: "home"
 ---
 # Welcome to the New Zealand Programming Contest Website
 

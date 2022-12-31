@@ -1,6 +1,7 @@
 ---
 title: "New Zealand Programming Contest Results"
 date: 2022-12-31T10:03:14Z
+menu_hack: "results"
 ---
 
 * Latest Results [2022](/Results2022.html)

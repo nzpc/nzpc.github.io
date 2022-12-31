@@ -1,6 +1,7 @@
 ---
 title: "New Zealand Programming Contest Registration"
 date: 2022-12-31T10:03:20Z
+menu_hack: "register"
 ---
 
 Registration for the 2022 contest is over.

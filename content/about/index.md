@@ -1,6 +1,7 @@
 ---
 title: "About the New Zealand Programming Contest"
 date: 2022-12-31T09:52:15Z
+menu_hack: "about"
 ---
 
 The NZPC is an annual contest, usually held in September, and open to all programmers in New Zealand.
