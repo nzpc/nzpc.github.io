@@ -7,3 +7,10 @@ a:active, a:visited, a:link {
 a:hover {
   text-decoration: underline;
 }
+
+/*
+This would more closely match the previous site's CSS
+h1, h2, h3 {
+  font-weight: 700;
+}
+*/
