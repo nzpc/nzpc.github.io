@@ -4,9 +4,8 @@ date: 2022-12-31T10:03:20Z
 menu_hack: "register"
 ---
 
-Registration for the 2022 contest is over.
-
-Registration is closed until next year.
+* Team registration will again be done through DOMjudge on contest day.
+* You will be able to reserve places for your teams here from mid-August.
 
 ## Contest Documentation
 
