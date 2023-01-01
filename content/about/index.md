@@ -1,5 +1,5 @@
 ---
-title: "About the New Zealand Programming Contest"
+title: "About the contest"
 date: 2022-12-31T09:52:15Z
 menu_hack: "about"
 ---

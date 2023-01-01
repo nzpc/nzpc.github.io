@@ -1,5 +1,5 @@
 ---
-title: "New Zealand Programming Contest Registration"
+title: "Contest registration"
 date: 2022-12-31T10:03:20Z
 menu_hack: "register"
 ---
