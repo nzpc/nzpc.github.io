@@ -12,5 +12,6 @@ The site is built using the Hugo static site generator (SSG).
   * Files of type `.html` are embedded in header/footer. Files of type `.md` are also first converted to HTML from Markdown.* Note that Hugo does some URL mapping, e.g., `content/results/2018.html` actually appears at `/results/2018/` on the site that gets generated.
 * `layouts/`---contains header/footer code used in built HTML pages, and also contains the custom 404 error page.
 * `static/`---these files get mixed into the generated website, but unlike material from `content/`, this content is copied over unmodified by Hugo.
+  * e.g., all the files and folders for the `Scoreboards/` get copied to the site (they're essentially their own self-contained, static, sub-websites). Note that I have updated the URLs they use, though.
 * `.github/`---contains the Git commit hooks to build the website and update GitHub Pages
 * (optional) `.devcontainer/` and `.vscode/`---I use this to preview changes I am making locally within Visual Studio Code, using Hugo running on Docker Desktop.
