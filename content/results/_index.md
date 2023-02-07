@@ -15,3 +15,4 @@ menu_hack: "results"
 * [2019](/results/2019/)
 * [2018](/results/2018/)
 * [2017](/results/2017/)
+* [2016](/results/2016/)
