@@ -10,9 +10,10 @@ menu_hack: "results"
 
 ## Earlier Results
 
-* [2021](/results/2021/)
-* [2020](/results/2020/)
-* [2019](/results/2019/)
+* [2021](/results/2021/)  * [2017](/results/2017/)
+* [2020](/results/2020/)  * [2016](/results/2016/)
+* [2019](/results/2019/)  * [2016](/results/2016/)
 * [2018](/results/2018/)
-* [2017](/results/2017/)
-* [2016](/results/2016/)
+
+
+
