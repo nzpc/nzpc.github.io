@@ -13,3 +13,4 @@ menu_hack: "home"
 * [Sites](/sites/)
 * [Contest Information](/about/)
 * [Registration](/register/)
+* [News on Facebook](https://www.facebook.com/groups/625379865871965)
