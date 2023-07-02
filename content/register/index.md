@@ -6,11 +6,7 @@ menu_hack: "register"
 
 * Team registration will again be done through DOMjudge on contest day.
 * Reserve places for your teams:
-<table>
- <tr>
-   <td>Site</td><td>Registration</td>
- </tr>
-</table>
+
 
 ## Contest Documentation
 
