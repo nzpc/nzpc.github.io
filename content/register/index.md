@@ -5,7 +5,7 @@ menu_hack: "register"
 ---
 
 * Team registration will again be done through DOMjudge on contest day.
-* Reserve places for your teams:
+* Reserve places for your teams here after August 1st.
 
 
 ## Contest Documentation
