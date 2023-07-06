@@ -16,6 +16,7 @@ There are 5 categories under which teams may compete, each category having its o
 
 Teams must compete at one of the official sites, although we will be flexible if any part of New Zealand is in lockdown.
 [Site Details](/sites/)
+Team formally register at the start of the contest, but once registration is open (2-3 weeks before the contest), team managers may reserve places for their teams. [Registration page](/register/)
 
 ## Outline
 
