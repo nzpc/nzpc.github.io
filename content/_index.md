@@ -14,6 +14,5 @@ menu_hack: "home"
 
 ## Information about NZPC
 
-* [Contest Information](/about/)
-* [Registration](/register/)
+* [General Contest Information](/about/)
 * [News on Facebook](https://www.facebook.com/groups/625379865871965)
