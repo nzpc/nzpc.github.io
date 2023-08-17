@@ -3,7 +3,7 @@ title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
 menu_hack: "home"
 ---
-# The New Zealand Programming Contest is today, 14:00 to 19:00.
+# The New Zealand Programming Contest is this Saturday, 14:00 to 19:00.
 
 ## Information for Contest Day. 
 * [Information about Local Sites](/sites/)
