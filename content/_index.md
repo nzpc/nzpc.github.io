@@ -7,7 +7,7 @@ menu_hack: "home"
 
 ## The 2023 contest was held on Saturday August 19th. 
 
-[Results](/results/2023)
+* [Results](/results/2023)
 
 
 ## Information about NZPC
