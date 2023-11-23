@@ -30,5 +30,5 @@ In the NZPC, problems are graded. Solved problems score 3, 10, 30 or 100 points 
 
 In each category, the team with the most points wins.  Where equal, places are decided by the time taken to arrive at a solution.
 
-The Results page show winners, scoreboards and problems from the most recent contest.
+The Results page shows winners, scoreboards and problems from the most recent contest.
 [Results](/results/)
