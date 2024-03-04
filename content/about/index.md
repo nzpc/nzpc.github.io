@@ -5,7 +5,7 @@ menu_hack: "about"
 ---
 
 The NZPC is an annual contest, usually held in August or September, and open to all programmers in New Zealand.
-Teams from outside New Zealand may usually enter the ANZAC League which runs at the same time and uses the same problem set.
+Teams from outside New Zealand may usually enter the SPAR contest (formerly the ANZAC League) which runs at the same time and uses the same problem set.
 
 ## Categories
 
