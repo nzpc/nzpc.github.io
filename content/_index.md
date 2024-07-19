@@ -7,7 +7,7 @@ menu_hack: "home"
 
 ## The 2024 contest will be held on August 17th, starting at 14:00 (2pm).
 
-### Go to Registration to reserve places for your teams.
+### [Go to Registration to reserve places for your teams.](/register/)
 
 
 ## Information about NZPC
