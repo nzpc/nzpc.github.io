@@ -7,7 +7,7 @@ menu_hack: "home"
 
 ## Information for Contest Day. 
 * [Information about Local Sites](/sites/)
-* [Welcome Video - especially useful to those new to the contest](https://www.youtube.com/watch?v=Iaonv2FaJRw)
+* [Welcome Video - especially useful to those new to the contest](https://www.youtube.com/watch?v=vaWTSZFDZns)
 * [DOMjudge judging system](https://domserver.csse.canterbury.ac.nz/public)
 * [Team Entry Form - Form to record information to register your team](/pdf/TeamEntryForm.pdf)
 * [Practice Contest Problem Set](/pdf/PracticeProblems.pdf)
