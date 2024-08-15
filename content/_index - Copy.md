@@ -5,12 +5,11 @@ menu_hack: "home"
 ---
 # Welcome to the New Zealand Programming Contest Website
 
-* The 2023 contest will be held on Saturday August 19th at 2pm. 
-* Registration (reservation of places) is open.
+* The 2024 contest is over. 
+* Click Results to see who won.
 
 ## Information about NZPC
 
 * [Sites](/sites/)
 * [Contest Information](/about/)
-* [Registration](/register/)
 * [News on Facebook](https://www.facebook.com/groups/625379865871965)

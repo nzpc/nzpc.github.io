@@ -3,15 +3,16 @@ title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
 menu_hack: "home"
 ---
-# Welcome to the New Zealand Programming Contest 
+# The New Zealand Programming Contest is this Saturday, 14:00 to 19:00.
 
-## The 2024 contest will be held on August 17th, starting at 14:00 (2pm).
-
-### [Go to Registration to reserve places for your teams.](/register/)
-
+## Information for Contest Day. 
+* [Information about Local Sites](/sites/)
+* [Welcome Video - especially useful to those new to the contest](https://www.youtube.com/watch?v=vaWTSZFDZns)
+* [DOMjudge judging system](https://domserver.csse.canterbury.ac.nz/public)
+* [Team Entry Form - Form to record information to register your team](/pdf/TeamEntryForm.pdf)
+* [Practice Contest Problem Set](/pdf/PracticeProblems.pdf)
 
 ## Information about NZPC
 
 * [General Contest Information](/about/)
 * [News on Facebook](https://www.facebook.com/groups/625379865871965)
-* [Latest Results](/results/2023)
