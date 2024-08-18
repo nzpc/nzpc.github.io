@@ -6,7 +6,7 @@ menu_hack: "results"
 
 ## Latest Results
 
-* 2024 results available soon 
+* [2024](/results/2024/) 
 
 ## Earlier Results
 
