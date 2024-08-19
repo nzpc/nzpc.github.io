@@ -5,9 +5,8 @@ menu_hack: "home"
 ---
 # The New Zealand Programming Contest for 2024 is over.
 
-## Information for Contest Day.
-* [Results on DOMjudge](https://domserver.csse.canterbury.ac.nz/public)
-* [Contest Problem Set](/ProblemSets/NZPC_2024_Contest.pdf)
+## Results
+* [2024 Results](/results/2024/) 
 
 ## Information about NZPC
 
