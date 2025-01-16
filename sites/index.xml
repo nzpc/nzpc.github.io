@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contest sites on New Zealand Programming Contest</title><link>https://nzpc.github.io/sites/</link><description>Recent content in Contest sites on New Zealand Programming Contest</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://nzpc.github.io/sites/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://nzpc.github.io/sites/weltec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/sites/weltec/</guid><description>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> New Zealand Programming Contest (Whitireia Site Page) Whitireia and WelTec NZPC Site Page The next NZ Programming Contest is Saturday August 17th, 2024 Local site information (at Wellington Institute of Technology) Venue Room T605/T606, T-block, WelTec, Petone Campus (21 Kensington Ave., Petone) Languages GNU C/C++ Version 10.2 (Linux) Java OpenJDK V11.0.14 Other languages can possibly be supplied if requested sufficiently in advance. OS/Hardware/etc We will use the DOMjudge automated judge system for running the contest.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contest sites on New Zealand Programming Contest</title><link>https://nzpc.github.io/sites/</link><description>Recent content in Contest sites on New Zealand Programming Contest</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://nzpc.github.io/sites/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://nzpc.github.io/sites/weltec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/sites/weltec/</guid><description>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+&lt;!-- saved from url=(0063)file:///C:/Users/baliuac/Downloads/WhitireiaSitePage%20(1).html -->
+&lt;html>&lt;head>&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+&lt;title>New Zealand Programming Contest (Whitireia Site Page)&lt;/title>
+
+
+&lt;link href="file:///C:/Users/baliuac/Downloads/New%20Zealand%20Programming%20Contest%20(Whitireia%20Site%20Page)_files/generic.css" rel="stylesheet" type="text/css">
+&lt;/head>
+
+&lt;body>
+&lt;div class="container">
+&lt;h1>Whitireia and WelTec NZPC Site Page&lt;/h1>
+
+&lt;p>
+&lt;b>The next NZ Programming Contest is Saturday August 17th, 2024&lt;/b>
+
+&lt;!--p>
+For general information about the &lt;b> NZ Programming
+Contest&lt;/b> see the &lt;a href="http://www.nzprogcontest.org.nz/">
+official website&lt;/a> maintained by NZ contest director &lt;a href="mailto:
+phil.robbins@aut.ac.nz">Phil Robbins&lt;/a>.&lt;--->
+&lt;/p>&lt;hr>
+&lt;h2>
+Local site information (at Wellington Institute of Technology)&lt;/h2>
+&lt;h3>Venue&lt;/h3>
+Room T605/T606, T-block, WelTec, Petone Campus (21 Kensington Ave., Petone)
+&lt;h3>Languages&lt;/h3>
+&lt;li>&lt;a href="http://www.cppreference.com/index.html">GNU C/C++ Version 10.2&lt;/a>
+(Linux)&lt;/li>
+&lt;li> &lt;a href="https://openjdk.java.net/projects/jdk/14/">Java OpenJDK V11.0.14
+&lt;/a>&lt;/li>
+
+&lt;p>
+Other languages can possibly be supplied if requested sufficiently in advance.
+&lt;/p></description></item></channel></rss>
