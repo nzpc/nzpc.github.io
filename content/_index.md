@@ -3,7 +3,7 @@ title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
 menu_hack: "home"
 ---
-# The New Zealand Programming Contest for 2024 is over.
+# Planning for the New Zealand Programming Contest for 2025 will start shortly.
 
 ## Results
 * [2024 Results](/results/2024/) 
