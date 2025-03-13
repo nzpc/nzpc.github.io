@@ -3,9 +3,8 @@ title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
 menu_hack: "home"
 ---
-# Planning for the New Zealand Programming Contest for 2025 is underway.
-### - Problems are being set and sites are being organised.
-### - Probable date 9th or 16th August.
+# The New Zealand Programming Contest for 2025 will be held on 9th August.
+### - Problems are being set and sites have been organised.
 
 ## Results
 * [2024 Results](/results/2024/) 
