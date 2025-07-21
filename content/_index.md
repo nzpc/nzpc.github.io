@@ -5,6 +5,7 @@ menu_hack: "home"
 ---
 # The New Zealand Programming Contest for 2025 will be held on 9th August.
 ### - Team managers will soon be able to reserve places for their teams.
+### - The Welcome Video is now available.
 
 ## Results
 * [2024 Results](/results/2024/) 
@@ -13,3 +14,4 @@ menu_hack: "home"
 
 * [General Contest Information](/about/)
 * [News on Facebook](https://www.facebook.com/groups/625379865871965)
+* [Welcome Video](https://youtu.be/lFFq-GCwzDE)
