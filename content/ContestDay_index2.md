@@ -7,7 +7,7 @@ menu_hack: "home"
 
 ## Information for Contest Day. 
 * [DOMjudge judging system](https://domserver.csse.canterbury.ac.nz/public)
-* [Contest Problem Set](/ProblemSets/NZPC_2024_Contest.pdf)
+* [Contest Problem Set](/ProblemSets/NZPC_2025_Contest.pdf)
 
 ## Information about NZPC
 

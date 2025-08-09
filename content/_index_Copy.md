@@ -8,7 +8,7 @@ menu_hack: "home"
 ### - The Welcome Video is now available (see link below).
 
 ## Results
-* [2024 Results](/results/2024/) 
+* [2025 Results](/results/2025/) 
 
 ## Information about NZPC
 
