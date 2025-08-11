@@ -538,10 +538,9 @@
 		&lt;!--	-->
  &lt;tr>
  &lt;td>Open&lt;/td>
- &lt; &lt;td>&lt;strong>Griffin 24&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#Open">team&lt;/a>&lt;/td>
+ &lt;td>&lt;strong>Griffin 24&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#Open">team&lt;/a>&lt;/td>
  &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2025/Open.html">Open Scoreboard&lt;/a>
- 			!---->
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2025/Open.html">Open Scoreboard&lt;/a> 			
  &lt;/td>
  &lt;/tr>
  &lt;/table>
