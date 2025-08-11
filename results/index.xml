@@ -505,7 +505,7 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>School&lt;/td>
- &lt;td>&lt;strong>HappyCapybara&lt;/strong>, &amp;nbsp;Mt Albert Grammar School&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2025.html#School">team&lt;/a>
+ &lt;td>&lt;strong>HappyCapybara&lt;/strong>, &amp;nbsp;Mt Albert Grammar School&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#School">team&lt;/a>
 			&lt;/td>
  &lt;td>
  &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2025/School.html">School Scoreboard&lt;/a>
@@ -514,34 +514,34 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Tertiary Junior&lt;/td>
- &lt;!-- &lt;td>&lt;strong>what the Σ&lt;/strong>,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TJunior">team&lt;/a>&lt;/td>
+ &lt;td>&lt;strong>Better than OSC1&lt;/strong>,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TJunior">team&lt;/a>&lt;/td>
  &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2024/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2025/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
  &lt;/td>
-			-->
+		&lt;!--	-->
  &lt;/tr>
  &lt;tr>
  &lt;td>Tertiary Intermediate&lt;/td>
- &lt;!-- &lt;td>&lt;strong>Noodle-Quack-v8&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TIntermediate">team&lt;/a>&lt;/td>
+ &lt;td>&lt;strong>rm -rfv /&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TIntermediate">team&lt;/a>&lt;/td>
  &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2024/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2025/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
  &lt;/td>
-			-->
+		&lt;!--	-->
  &lt;/tr>
  &lt;tr>
  &lt;td>Tertiary Open&lt;/td>
- &lt;!-- &lt;td>&lt;strong>CAA9000&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TOpen">team&lt;/a>&lt;/td>
+ &lt;td>&lt;strong>CAA9000&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TOpen">team&lt;/a>&lt;/td>
  &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2024/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2025/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
  &lt;/td>
  &lt;/tr>
-			-->
+		&lt;!--	-->
  &lt;tr>
  &lt;td>Open&lt;/td>
- &lt;!-- &lt;td>&lt;strong>Griffin 24&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#Open">team&lt;/a>&lt;/td>
+ &lt; &lt;td>&lt;strong>Griffin 24&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#Open">team&lt;/a>&lt;/td>
  &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2024/Open.html">Open Scoreboard&lt;/a>
- 			-->
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2025/Open.html">Open Scoreboard&lt;/a>
+ 			!---->
  &lt;/td>
  &lt;/tr>
  &lt;/table>
