@@ -5,7 +5,7 @@ menu_hack: "results"
 ---
 
 ## Latest Results
-* [2025] (/results/2025/)
+* [2025](/results/2025/)
 
 
 ## Earlier Results
