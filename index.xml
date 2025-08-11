@@ -702,18 +702,17 @@ phil.robbins@aut.ac.nz">Phil Robbins&lt;/a>.&lt;--->
  &lt;/td>
  &lt;/tr>
  &lt;/table>
- &lt;!-- &lt;table id="ctl00_MainContent_tblLinks">
+ &lt;table id="ctl00_MainContent_tblLinks">
 	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2024_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
+		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2025_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
 	&lt;/tr>
 	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Statistics.pdf" >Contest Statistics&lt;/a>&lt;/td>
+		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/Statistics.pdf" >Contest Statistics&lt;/a>&lt;/td>
 	&lt;/tr>
 	&lt;tr>	&amp;nbsp;
 	 &lt;td>Editorials: 
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials3-10.pdf" target="_new">3 and 10 points&lt;/a>&amp;nbsp;|&amp;nbsp;
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/nzpc-2024-editorial-30pt-100pt-v1.pdf" target="_new">30 and 100 points.&lt;/a>
-		 &lt;/td>
+&lt;!--			 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/Editorials3-10.pdf" target="_new">3 and 10 points&lt;/a>&amp;nbsp;|&amp;nbsp;
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/nzpc-2024-editorial-30pt-100pt-v1.pdf" target="_new">30 and 100 points.&lt;/a>
+		 &lt;/td>-->
 	&lt;/tr>
-&lt;/table>
-			--></description></item></channel></rss>
+&lt;/table></description></item></channel></rss>
