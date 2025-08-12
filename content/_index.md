@@ -5,8 +5,8 @@ menu_hack: "home"
 ---
 # The New Zealand Programming Contest 2025 is over.
 
-## Results have not yet been verified 
-* [Scoreboard](https://domserver.csse.canterbury.ac.nz/public) 
+## Results are now final 
+* [Results](/results/2025/)
 
 ## Information about NZPC
 
