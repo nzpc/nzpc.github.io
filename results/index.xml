@@ -1,560 +1,560 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contest results on New Zealand Programming Contest</title><link>https://nzpc.github.io/results/</link><description>Recent content in Contest results on New Zealand Programming Contest</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://nzpc.github.io/results/index.xml" rel="self" type="application/rss+xml"/><item><title>New Zealand Programming Contest 2015 Results</title><link>https://nzpc.github.io/results/2015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2015/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Free will&lt;/strong>, Auckland, 166 points&lt;br />&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>You Make Me NP-Complete&lt;/strong>, Christchurch, 82 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Tertiary_Junior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>Cafe Babe&lt;/strong>, Auckland, 239 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Tertiary_Intermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>Trigraph&lt;/strong>, University of Waikato, 162 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Tertiary_Open.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Perplexico&lt;/strong>, Auckland, 396 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks" width="840">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2015.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
- 	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2016 Results</title><link>https://nzpc.github.io/results/2016/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2016/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Sorry_Ralph ver 1.0&lt;/strong>, Combined school team, 172 points&lt;br />
-			Top School:&lt;strong>2 Christophers Rappaz&lt;/strong>, Christ's College, 82 points
- &lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2016/School.htm">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>AUT 22&lt;/strong>, AUT University, 42 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2016/TertiaryJunior.htm">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>PSPACEcreated&lt;/strong>, University of Canterbury, 172 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2016/TertiaryIntermediate.htm">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>Ancient Penguins&lt;/strong>, University of Auckland, 112 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2016/TertiaryOpen.htm">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>S^3&lt;/strong>, Independent, 242 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2016/Open.htm">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks" width="840">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2016.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
- 	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2017 Results</title><link>https://nzpc.github.io/results/2017/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2017/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>P = NP&lt;/strong>, Christ's College, 139 points
- &lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2017/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>The Gardiner Party&lt;/strong>, University of Auckland, 109 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2017/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>LoremIpsum&lt;/strong>, University of Auckland, 100 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2017/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>int*&lt;/strong>, University of canterbury, 342 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2017/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>S^3&lt;/strong>, Independent, 212 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2017/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks" width="840">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2017.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2018 Results</title><link>https://nzpc.github.io/results/2018/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2018/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>BHSteve&lt;/strong>, Burnside High School 82 points
- &lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2018/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>MSPPITC&lt;/strong>, University of Waikato, 100 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2018/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>xkcd327&lt;/strong>, University of Auckland, 182 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2018/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>My Jianbei Can't Be This Cute&lt;/strong>, University of Auckland, 272 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2018/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>S^3&lt;/strong>, Independent, 182 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2018/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks" width="840">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2018.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2019 Results</title><link>https://nzpc.github.io/results/2019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2019/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Sparse Table &lt;/strong>(combined school team) 386 points&lt;br />
- Top school: &lt;strong>Steve++&lt;/strong>, Burside High School 282 points
- &lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2019/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>DSL&lt;/strong>, University of Waikato, 42 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2019/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>RTIMSE&lt;/strong>, University of Waikato, 213 points&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2019/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>addQq7O92S6487&lt;/strong>, University of Auckland, 572 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2019/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Team Ignite&lt;/strong>, Independent, 302 points&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2019/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks" width="840">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2019.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2020 Results</title><link>https://nzpc.github.io/results/2020/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2020/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Steve++&lt;/strong>, Burnside High School&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#School"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2020/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>Gardiner's Garden ..&lt;/strong>, University of Auckland&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#TJunior"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2020/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>Proof by Inducktion&lt;/strong>, University of Canterbury&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#TIntermediate"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2020/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>Trie-O&lt;/strong>, University of Auckland&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#TOpen"> - team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2020/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Undocumented Integers&lt;/strong>, Independent&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#Open"> - team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2020/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2020.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2021 Results</title><link>https://nzpc.github.io/results/2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2021/</guid><description>&lt;p>The contest this year was held entirely online because of the outbreak of the Delta Variant of Covid-19.&lt;/p>
- &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Steve++&lt;/strong>, Burnside High School&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#School"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2021/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>Coding Coconuts&lt;/strong>, Victoria University of Wellington&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#TJunior"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2021/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>SE2 Noobies&lt;/strong>, University of Auckland&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#TIntermediate"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2021/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>Trie-O&lt;/strong>, University of Auckland&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#TOpen"> - team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2021/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>YS&lt;/strong>, Independent&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#Open"> - team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2021/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2021_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2022 Results</title><link>https://nzpc.github.io/results/2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2022/</guid><description>&lt;p>After 2 years of online contests, this year we were back on site.&lt;/p>
- &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Syzygy&lt;/strong>, Mt Albert Grammar School&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#School"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2022/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>The Lobb Fan Club&lt;/strong>, University of Canterbury&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#TJunior"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2022/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>CAJ&lt;/strong>, University of Canterbury&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#TIntermediate"> - team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2022/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>cflat&lt;/strong>, University of Canterbury&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#TOpen"> - team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2022/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Griffin&lt;/strong>, Independent&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#Open"> - team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2022/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2022_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>	
-	 &lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/NZPC_2022_Editorials.pdf" target="_new">Editorials&lt;/a>&lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2023 Results</title><link>https://nzpc.github.io/results/2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2023/</guid><description>&lt;p>The contest was held on Saturday 19th August.&lt;/p>
- &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>squad team&lt;/strong>, &amp;nbsp;Rangitoto College&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#School">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2023/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>Among&lt;/strong>,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#TJunior">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2023/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>hmm&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#TIntermediate">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2023/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>prog4pain&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#TOpen">team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2023/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Griffin Practice&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#Open">team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2023/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2023_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Statistics.pdf" target="_new">Contest Statistics&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>	&amp;nbsp;
-	 &lt;td>Editorials: 
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Editorials3-10.pdf" target="_new">3 and 10 points&lt;/a>&amp;nbsp;|&amp;nbsp;
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Editorials30.pdf" target="_new">30 points&lt;/a>&amp;nbsp;|&amp;nbsp;
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Editorials100.pdf" target="_new">100 points&lt;/a>
-		 &lt;/td>
-		&lt;!--&lt;td>Editorials - when available.&lt;/td>-->
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2024 Results</title><link>https://nzpc.github.io/results/2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2024/</guid><description>&lt;p>The contest was held on Saturday 17th August.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contest results on New Zealand Programming Contest</title><link>https://nzpc.github.io/results/</link><description>Recent content in Contest results on New Zealand Programming Contest</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://nzpc.github.io/results/index.xml" rel="self" type="application/rss+xml"/><item><title>New Zealand Programming Contest 2015 Results</title><link>https://nzpc.github.io/results/2015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2015/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Free will&lt;/strong&gt;, Auckland, 166 points&lt;br /&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;You Make Me NP-Complete&lt;/strong&gt;, Christchurch, 82 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Tertiary_Junior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Cafe Babe&lt;/strong&gt;, Auckland, 239 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Tertiary_Intermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Trigraph&lt;/strong&gt;, University of Waikato, 162 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Tertiary_Open.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Perplexico&lt;/strong&gt;, Auckland, 396 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2015/Scoreboard_Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks" width="840"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2015.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+ 	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2016 Results</title><link>https://nzpc.github.io/results/2016/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2016/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Sorry_Ralph ver 1.0&lt;/strong&gt;, Combined school team, 172 points&lt;br /&gt;
+			Top School:&lt;strong&gt;2 Christophers Rappaz&lt;/strong&gt;, Christ's College, 82 points
+ &lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2016/School.htm"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;AUT 22&lt;/strong&gt;, AUT University, 42 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2016/TertiaryJunior.htm"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;PSPACEcreated&lt;/strong&gt;, University of Canterbury, 172 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2016/TertiaryIntermediate.htm"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Ancient Penguins&lt;/strong&gt;, University of Auckland, 112 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2016/TertiaryOpen.htm"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;S^3&lt;/strong&gt;, Independent, 242 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2016/Open.htm"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks" width="840"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2016.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+ 	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2017 Results</title><link>https://nzpc.github.io/results/2017/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2017/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;P = NP&lt;/strong&gt;, Christ's College, 139 points
+ &lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2017/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;The Gardiner Party&lt;/strong&gt;, University of Auckland, 109 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2017/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;LoremIpsum&lt;/strong&gt;, University of Auckland, 100 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2017/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;int*&lt;/strong&gt;, University of canterbury, 342 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2017/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;S^3&lt;/strong&gt;, Independent, 212 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2017/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks" width="840"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2017.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2018 Results</title><link>https://nzpc.github.io/results/2018/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2018/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;BHSteve&lt;/strong&gt;, Burnside High School 82 points
+ &lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2018/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;MSPPITC&lt;/strong&gt;, University of Waikato, 100 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2018/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;xkcd327&lt;/strong&gt;, University of Auckland, 182 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2018/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;My Jianbei Can't Be This Cute&lt;/strong&gt;, University of Auckland, 272 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2018/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;S^3&lt;/strong&gt;, Independent, 182 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2018/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks" width="840"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2018.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2019 Results</title><link>https://nzpc.github.io/results/2019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2019/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Sparse Table &lt;/strong&gt;(combined school team) 386 points&lt;br /&gt;
+ Top school: &lt;strong&gt;Steve++&lt;/strong&gt;, Burside High School 282 points
+ &lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2019/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;DSL&lt;/strong&gt;, University of Waikato, 42 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2019/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;RTIMSE&lt;/strong&gt;, University of Waikato, 213 points&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2019/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;addQq7O92S6487&lt;/strong&gt;, University of Auckland, 572 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2019/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Team Ignite&lt;/strong&gt;, Independent, 302 points&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2019/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks" width="840"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2019.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2020 Results</title><link>https://nzpc.github.io/results/2020/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2020/</guid><description>&lt;table style="width: 90%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Steve++&lt;/strong&gt;, Burnside High School&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#School"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2020/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Gardiner's Garden ..&lt;/strong&gt;, University of Auckland&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#TJunior"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2020/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Proof by Inducktion&lt;/strong&gt;, University of Canterbury&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#TIntermediate"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2020/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Trie-O&lt;/strong&gt;, University of Auckland&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#TOpen"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2020/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Undocumented Integers&lt;/strong&gt;, Independent&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2020/WinningTeams2020.html#Open"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2020/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2020.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2021 Results</title><link>https://nzpc.github.io/results/2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2021/</guid><description>&lt;p&gt;The contest this year was held entirely online because of the outbreak of the Delta Variant of Covid-19.&lt;/p&gt;
+ &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Steve++&lt;/strong&gt;, Burnside High School&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#School"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2021/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Coding Coconuts&lt;/strong&gt;, Victoria University of Wellington&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#TJunior"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2021/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;SE2 Noobies&lt;/strong&gt;, University of Auckland&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#TIntermediate"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2021/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Trie-O&lt;/strong&gt;, University of Auckland&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#TOpen"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2021/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;YS&lt;/strong&gt;, Independent&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2021/WinningTeams2021.html#Open"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2021/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2021_Contest.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2022 Results</title><link>https://nzpc.github.io/results/2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2022/</guid><description>&lt;p&gt;After 2 years of online contests, this year we were back on site.&lt;/p&gt;
+ &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Syzygy&lt;/strong&gt;, Mt Albert Grammar School&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#School"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2022/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;The Lobb Fan Club&lt;/strong&gt;, University of Canterbury&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#TJunior"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2022/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;CAJ&lt;/strong&gt;, University of Canterbury&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#TIntermediate"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2022/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;cflat&lt;/strong&gt;, University of Canterbury&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#TOpen"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2022/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Griffin&lt;/strong&gt;, Independent&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2022/WinningTeams2022.html#Open"&gt; - team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2022/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2022_Contest.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;	
+	 &lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/NZPC_2022_Editorials.pdf" target="_new"&gt;Editorials&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2023 Results</title><link>https://nzpc.github.io/results/2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2023/</guid><description>&lt;p&gt;The contest was held on Saturday 19th August.&lt;/p&gt;
+ &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;squad team&lt;/strong&gt;, &amp;nbsp;Rangitoto College&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#School"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2023/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Among&lt;/strong&gt;,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#TJunior"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2023/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;hmm&lt;/strong&gt;,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#TIntermediate"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2023/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;prog4pain&lt;/strong&gt;,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#TOpen"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2023/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Griffin Practice&lt;/strong&gt;, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2023/WinningTeams2023.html#Open"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2023/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2023_Contest.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Statistics.pdf" target="_new"&gt;Contest Statistics&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;	&amp;nbsp;
+	 &lt;td&gt;Editorials: 
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Editorials3-10.pdf" target="_new"&gt;3 and 10 points&lt;/a&gt;&amp;nbsp;|&amp;nbsp;
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Editorials30.pdf" target="_new"&gt;30 points&lt;/a&gt;&amp;nbsp;|&amp;nbsp;
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2023/Editorials100.pdf" target="_new"&gt;100 points&lt;/a&gt;
+		 &lt;/td&gt;
+		&lt;!--&lt;td&gt;Editorials - when available.&lt;/td&gt;--&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2024 Results</title><link>https://nzpc.github.io/results/2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2024/</guid><description>&lt;p&gt;The contest was held on Saturday 17th August.&lt;/p&gt;
 	
- &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>Timmy's Shoemakers&lt;/strong>, &amp;nbsp;Burnside High School&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#School">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2024/School.html">School Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>what the Σ&lt;/strong>,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TJunior">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2024/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>Noodle-Quack-v8&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TIntermediate">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2024/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>CAA9000&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TOpen">team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2024/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Griffin 24&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#Open">team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2024/Open.html">Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2024_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>
-		&lt;!-- &lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Statistics.pdf" target="_new">Contest Statistics&lt;/a>&lt;/td>-->
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Statistics.pdf" >Contest Statistics&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>	&amp;nbsp;
-	 &lt;td>Editorials: 
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials3-10.pdf" target="_new">3 and 10 points&lt;/a>&amp;nbsp;|&amp;nbsp;
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/nzpc-2024-editorial-30pt-100pt-v1.pdf" target="_new">30 and 100 points.&lt;/a>
-		 &lt;!-- &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials30.pdf" target="_new">30 points&lt;/a>&amp;nbsp;|&amp;nbsp;
-		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials100.pdf" target="_new">100 points&lt;/a>-->
-		 &lt;/td>
-	&lt;/tr>
-&lt;/table></description></item><item><title>New Zealand Programming Contest 2025 Results</title><link>https://nzpc.github.io/results/2025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2025/</guid><description>&lt;p>The contest was held on Saturday 9th August.&lt;/p>
+ &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Timmy's Shoemakers&lt;/strong&gt;, &amp;nbsp;Burnside High School&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#School"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2024/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;what the Σ&lt;/strong&gt;,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TJunior"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2024/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Noodle-Quack-v8&lt;/strong&gt;,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TIntermediate"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2024/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;CAA9000&lt;/strong&gt;,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#TOpen"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2024/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Griffin 24&lt;/strong&gt;, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2024/WinningTeams2024.html#Open"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2024/Open.html"&gt;Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2024_Contest.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;!-- &lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Statistics.pdf" target="_new"&gt;Contest Statistics&lt;/a&gt;&lt;/td&gt;--&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Statistics.pdf" &gt;Contest Statistics&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;	&amp;nbsp;
+	 &lt;td&gt;Editorials: 
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials3-10.pdf" target="_new"&gt;3 and 10 points&lt;/a&gt;&amp;nbsp;|&amp;nbsp;
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/nzpc-2024-editorial-30pt-100pt-v1.pdf" target="_new"&gt;30 and 100 points.&lt;/a&gt;
+		 &lt;!-- &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials30.pdf" target="_new"&gt;30 points&lt;/a&gt;&amp;nbsp;|&amp;nbsp;
+		 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2024/Editorials100.pdf" target="_new"&gt;100 points&lt;/a&gt;--&gt;
+		 &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item><item><title>New Zealand Programming Contest 2025 Results</title><link>https://nzpc.github.io/results/2025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzpc.github.io/results/2025/</guid><description>&lt;p&gt;The contest was held on Saturday 9th August.&lt;/p&gt;
 	
- &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" >
- &lt;tr style="font-weight:bold">
- &lt;td>Category&lt;/td>
- &lt;td>Winners&lt;/td>
- &lt;td>Scoreboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>School&lt;/td>
- &lt;td>&lt;strong>HappyCapybara&lt;/strong>, &amp;nbsp;Mt Albert Grammar School&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#School">team&lt;/a>
-			&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2025/School.html">School Scoreboard&lt;/a>
- &lt;/td>
-		&lt;!--	-->
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Junior&lt;/td>
- &lt;td>&lt;strong>Better than OSC1&lt;/strong>,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TJunior">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2025/TertiaryJunior.html">Tertiary Junior Scoreboard&lt;/a>
- &lt;/td>
-		&lt;!--	-->
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Intermediate&lt;/td>
- &lt;td>&lt;strong>rm -rfv /&lt;/strong>,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TIntermediate">team&lt;/a>&lt;/td>
- &lt;td>
- &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2025/TertiaryIntermediate.html">Tertiary Intermediate Scoreboard&lt;/a>
- &lt;/td>
-		&lt;!--	-->
- &lt;/tr>
- &lt;tr>
- &lt;td>Tertiary Open&lt;/td>
- &lt;td>&lt;strong>Just Regular Sauerkraut&lt;/strong>,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TOpen">team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2025/TertiaryOpen.html">Tertiary Open Scoreboard&lt;/a>
- &lt;/td>
- &lt;/tr>
-		&lt;!--	-->
- &lt;tr>
- &lt;td>Open&lt;/td>
- &lt;td>&lt;strong>Griffin&lt;/strong>, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#Open">team&lt;/a>&lt;/td>
- &lt;td> 
- &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2025/Open.html">Open Scoreboard&lt;/a> 			
- &lt;/td>
- &lt;/tr>
- &lt;/table>
- &lt;table id="ctl00_MainContent_tblLinks">
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2025_Contest.pdf" target="_new">Contest Problems&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>
-		&lt;td>&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/Statistics.pdf" >Contest Statistics&lt;/a>&lt;/td>
-	&lt;/tr>
-	&lt;tr>	&amp;nbsp;
-	 &lt;td>Editorials: 
-			 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/Editorials3-10.pdf" target="_new">3 and 10 points&lt;/a>&amp;nbsp;|&amp;nbsp;
-	&lt;!--	 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/nzpc-2024-editorial-30pt-100pt-v1.pdf" target="_new">30 and 100 points.&lt;/a>
-		 &lt;/td>-->
-	&lt;/tr>
-&lt;/table></description></item></channel></rss>
+ &lt;table style="width: 100%; font-size:18px"; border="1" class="table-bordered" &gt;
+ &lt;tr style="font-weight:bold"&gt;
+ &lt;td&gt;Category&lt;/td&gt;
+ &lt;td&gt;Winners&lt;/td&gt;
+ &lt;td&gt;Scoreboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;School&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;HappyCapybara&lt;/strong&gt;, &amp;nbsp;Mt Albert Grammar School&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkSchoolTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#School"&gt;team&lt;/a&gt;
+			&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkSchool" href="https://nzpc.github.io/Scoreboards/2025/School.html"&gt;School Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+		&lt;!--	--&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Junior&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Better than OSC1&lt;/strong&gt;,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkJuniorTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TJunior"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTJunior" href="https://nzpc.github.io/Scoreboards/2025/TertiaryJunior.html"&gt;Tertiary Junior Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+		&lt;!--	--&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Intermediate&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;rm -rfv /&lt;/strong&gt;,&amp;nbsp;University of Canterbury&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkIntTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TIntermediate"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;
+ &lt;a id="ctl00_MainContent_lnkTInt" href="https://nzpc.github.io/Scoreboards/2025/TertiaryIntermediate.html"&gt;Tertiary Intermediate Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+		&lt;!--	--&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tertiary Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Just Regular Sauerkraut&lt;/strong&gt;,&amp;nbsp;University of Auckland&amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkTOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#TOpen"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkTOpen" href="https://nzpc.github.io/Scoreboards/2025/TertiaryOpen.html"&gt;Tertiary Open Scoreboard&lt;/a&gt;
+ &lt;/td&gt;
+ &lt;/tr&gt;
+		&lt;!--	--&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Open&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;Griffin&lt;/strong&gt;, &amp;nbsp;-&amp;nbsp;&lt;a id="ctl00_MainContent_lnkOpenTeam" href="https://nzpc.github.io/Scoreboards/2025/WinningTeams2025.html#Open"&gt;team&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt; 
+ &lt;a id="ctl00_MainContent_lnkOpen" href="https://nzpc.github.io/Scoreboards/2025/Open.html"&gt;Open Scoreboard&lt;/a&gt; 			
+ &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;table id="ctl00_MainContent_tblLinks"&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/ProblemSets/NZPC_2025_Contest.pdf" target="_new"&gt;Contest Problems&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/Statistics.pdf" &gt;Contest Statistics&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;	&amp;nbsp;
+	 &lt;td&gt;Editorials: 
+			 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/Editorials3-10.pdf" target="_new"&gt;3 and 10 points&lt;/a&gt;&amp;nbsp;|&amp;nbsp;
+	&lt;!--	 &lt;a id="ctl00_MainContent_lnkContest" href="https://nzpc.github.io/Editorials/2025/nzpc-2024-editorial-30pt-100pt-v1.pdf" target="_new"&gt;30 and 100 points.&lt;/a&gt;
+		 &lt;/td&gt;--&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item></channel></rss>
