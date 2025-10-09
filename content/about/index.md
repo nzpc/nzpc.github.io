@@ -24,7 +24,7 @@ Teams formally register at the start of the contest, but once registration is op
 The contest is for teams of up to 3 contestants who have 5 hours to solve problems on a single computer.
 
 To solve a problem, a team must write a solution in one of the available languages (usually C#, C++, Java and Python)
-and submit it to the automatic judging system.  If this solution gives the same output to all test cases as does the judge's
+and submit it to [DOMjudge](https://domserver.csse.canterbury.ac.nz/public), the automatic judging system.  If this solution gives the same output to all test cases as does the judge's
 solution, then the problem is considered solved.
 
 In the NZPC, problems are graded. Solved problems score 3, 10, 30 or 100 points according to their difficulty as decided by the judges.
