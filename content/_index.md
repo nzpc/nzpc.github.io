@@ -5,7 +5,7 @@ menu_hack: "home"
 ---
 # The New Zealand Programming Contest 2025 is over.
 
-## Results are now final 
+## Results
 * [Results](/results/2025/)
 
 ## Information about NZPC
