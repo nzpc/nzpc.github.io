@@ -3,10 +3,11 @@ title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
 menu_hack: "home"
 ---
-# The New Zealand Programming Contest 2025 is over.
+# Welcome to 2026.
 
-## Results
-* [Results](/results/2025/)
+## Contest Preparation
+* About this time each year, we start thinking about the NZPC which is normally held in August or September.
+* This page will keep you up to date with our progress.
 
 ## Information about NZPC
 
