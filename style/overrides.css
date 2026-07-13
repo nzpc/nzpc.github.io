@@ -1,16 +1,657 @@
-.bg-primary { background-color:#085571 !important; }
-a.active { background-color:#085571 !important; }
+/* ==========================================================================
+   NZPC site styling. Plain CSS (no SCSS) layered over Bootstrap 5.
+   Palette: primary indigo #1a2156, secondary warm red #c03b2f.
+   Clean, professional, modern.
+   ========================================================================== */
 
-a:active, a:visited, a:link {
-  text-decoration: none;
+:root {
+  --nzpc-primary: #1a2156;
+  --nzpc-primary-dark: #11163a;
+  --nzpc-primary-tint: #eceef6;
+  --nzpc-primary-soft: #dfe2f0;
+  --nzpc-secondary: #c03b2f;
+  --nzpc-secondary-dark: #9a2c22;
+  --nzpc-secondary-tint: #fbeae8;
+  --nzpc-ink: #1b1d24;
+  --nzpc-muted: #5b6172;
+  --nzpc-line: #e4e6ef;
+  --nzpc-bg: #f6f7fb;
+  --nzpc-card: #ffffff;
+  --nzpc-font-body: "Libertinus Serif", Georgia, "Times New Roman", serif;
+  --nzpc-font-display: "Fraunces", "Libertinus Serif", Georgia, serif;
+  --nzpc-radius: .75rem;
+  --nzpc-radius-lg: 1.1rem;
+  --nzpc-shadow: 0 1px 2px rgba(26, 33, 86, .06), 0 8px 24px rgba(26, 33, 86, .08);
+  --nzpc-shadow-hover: 0 4px 10px rgba(26, 33, 86, .10), 0 16px 40px rgba(26, 33, 86, .16);
 }
-a:hover {
+
+/* --------------------------------------------------------------------------
+   Base
+   -------------------------------------------------------------------------- */
+body {
+  color: var(--nzpc-ink);
+  background: var(--nzpc-bg);
+  font-family: var(--nzpc-font-body);
+  font-size: 1.05rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Bootstrap primary -> NZPC indigo */
+.bg-primary { background-color: var(--nzpc-primary) !important; }
+.text-bg-primary { background-color: var(--nzpc-primary) !important; color: #fff !important; }
+.btn-primary {
+  background-color: var(--nzpc-primary);
+  border-color: var(--nzpc-primary);
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: var(--nzpc-primary-dark);
+  border-color: var(--nzpc-primary-dark);
+}
+
+/* Links */
+a { color: var(--nzpc-primary); text-underline-offset: 2px; }
+a:active, a:visited, a:link { text-decoration: none; }
+a:hover { text-decoration: underline; color: var(--nzpc-primary-dark); }
+
+/* In-body prose links stand out: secondary accent + persistent underline.
+   Scoped to page content so navbar, buttons, cards and CTAs keep their look. */
+main.container p a,
+main.container li a,
+main.container td a,
+main.container h2 a,
+main.container h3 a {
+  color: var(--nzpc-secondary);
+  font-weight: 600;
   text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+  text-decoration-color: color-mix(in srgb, var(--nzpc-secondary) 45%, transparent);
+  transition: text-decoration-color .15s ease, color .15s ease;
 }
+main.container p a:hover,
+main.container li a:hover,
+main.container td a:hover,
+main.container h2 a:hover,
+main.container h3 a:hover {
+  color: var(--nzpc-secondary-dark);
+  text-decoration-color: var(--nzpc-secondary-dark);
+}
+/* Keep the scoreboard-table links subdued (they sit in dense data rows). */
+main.container td.scoretn a { color: var(--nzpc-primary); font-weight: 600; text-decoration: none; }
 
-/*
-This would more closely match the previous site's CSS
-h1, h2, h3 {
+h1, h2, h3, h4 { font-family: var(--nzpc-font-display); font-weight: 700; letter-spacing: -.005em; color: var(--nzpc-primary); }
+h1 { margin-bottom: .75rem; font-size: clamp(1.9rem, 3.4vw, 2.6rem); }
+h2 { font-size: clamp(1.35rem, 2.2vw, 1.7rem); margin-top: 2rem; }
+main.container { padding-top: .5rem; padding-bottom: 3rem; max-width: 1080px; }
+
+/* Content rhythm */
+main.container p { line-height: 1.7; }
+main.container p, main.container ul, main.container ol { color: #2a2e3a; }
+
+/* Markdown tables in content (e.g. the home schedule) match the site tables. */
+main.container > table,
+main.container .nzpc-md-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.25rem 0;
+  background: var(--nzpc-card);
+  border: 1px solid var(--nzpc-line);
+  border-radius: var(--nzpc-radius);
+  overflow: hidden;
+  box-shadow: var(--nzpc-shadow);
+}
+main.container > table thead th {
+  background: var(--nzpc-primary);
+  color: #fff;
+  text-align: left;
   font-weight: 700;
 }
-*/
+main.container > table th,
+main.container > table td {
+  padding: .55rem .85rem;
+  border-bottom: 1px solid var(--nzpc-line);
+  vertical-align: top;
+}
+main.container > table tbody tr:nth-child(even) { background: var(--nzpc-primary-tint); }
+main.container > table tbody tr:last-child td { border-bottom: none; }
+
+/* --------------------------------------------------------------------------
+   Navbar
+   -------------------------------------------------------------------------- */
+.nzpc-navbar {
+  background: rgba(255, 255, 255, .9);
+  backdrop-filter: saturate(160%) blur(8px);
+  border-bottom: 1px solid var(--nzpc-line) !important;
+  box-shadow: 0 1px 12px rgba(26, 33, 86, .05);
+}
+.nzpc-navbar-logo { height: 44px; width: auto; }
+.nzpc-navbar-title {
+  font-family: var(--nzpc-font-display);
+  color: var(--nzpc-primary);
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: -.005em;
+}
+.nzpc-navbar .nav-link {
+  color: var(--nzpc-primary);
+  font-weight: 600;
+  border-radius: .5rem;
+  transition: background .15s ease, color .15s ease;
+}
+.nzpc-navbar .nav-link:hover { text-decoration: none; background: var(--nzpc-primary-tint); }
+.nzpc-navbar .nav-link.active {
+  background-color: var(--nzpc-primary) !important;
+  color: #fff !important;
+}
+
+/* --------------------------------------------------------------------------
+   Hero band (reusable across pages)
+   -------------------------------------------------------------------------- */
+.nzpc-hero {
+  position: relative;
+  overflow: hidden;
+  margin: -.5rem 0 2rem;
+  padding: 3rem clamp(1.25rem, 4vw, 3rem);
+  border-radius: var(--nzpc-radius-lg);
+  background: linear-gradient(135deg, var(--nzpc-primary) 0%, #2a3170 55%, #3a3f86 100%);
+  color: #fff;
+  box-shadow: var(--nzpc-shadow);
+}
+.nzpc-hero::after {
+  content: "";
+  position: absolute;
+  right: -120px; top: -120px;
+  width: 340px; height: 340px;
+  background: radial-gradient(circle, rgba(192, 59, 47, .55), transparent 70%);
+  pointer-events: none;
+}
+.nzpc-hero-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .8rem;
+  font-weight: 700;
+  color: #ffd9d4;
+  margin-bottom: .5rem;
+}
+.nzpc-hero h1 { color: #fff; margin-bottom: .75rem; position: relative; }
+.nzpc-hero p, main.container .nzpc-hero-lead { color: rgba(255,255,255,.9); }
+.nzpc-hero-lead { font-size: 1.15rem; max-width: 46rem; margin-bottom: 1.5rem; }
+.nzpc-hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; }
+
+/* --------------------------------------------------------------------------
+   Buttons
+   -------------------------------------------------------------------------- */
+.nzpc-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .6rem 1.25rem;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #fff !important;
+  background: var(--nzpc-secondary);
+  border: 2px solid var(--nzpc-secondary);
+  border-radius: .6rem;
+  text-decoration: none !important;
+  box-shadow: 0 2px 8px rgba(192, 59, 47, .25);
+  transition: transform .12s ease, background .15s ease, box-shadow .15s ease;
+}
+.nzpc-btn:hover {
+  background: var(--nzpc-secondary-dark);
+  border-color: var(--nzpc-secondary-dark);
+  color: #fff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(192, 59, 47, .32);
+}
+.nzpc-btn-primary {
+  background: var(--nzpc-primary);
+  border-color: var(--nzpc-primary);
+  box-shadow: 0 2px 8px rgba(26, 33, 86, .25);
+}
+.nzpc-btn-primary:hover { background: var(--nzpc-primary-dark); border-color: var(--nzpc-primary-dark); }
+.nzpc-btn-outline {
+  color: #fff !important;
+  background: transparent;
+  border-color: rgba(255,255,255,.7);
+  box-shadow: none;
+}
+.nzpc-btn-outline:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+/* Outline variant on light backgrounds */
+.nzpc-btn-ghost {
+  color: var(--nzpc-primary) !important;
+  background: #fff;
+  border-color: var(--nzpc-line);
+  box-shadow: var(--nzpc-shadow);
+}
+.nzpc-btn-ghost:hover { background: var(--nzpc-primary-tint); border-color: var(--nzpc-primary-soft); color: var(--nzpc-primary-dark) !important; }
+.nzpc-btn-sm { padding: .42rem .9rem; font-size: .92rem; }
+
+/* --------------------------------------------------------------------------
+   Cards & surfaces
+   -------------------------------------------------------------------------- */
+.nzpc-card {
+  background: var(--nzpc-card);
+  border: 1px solid var(--nzpc-line);
+  border-radius: var(--nzpc-radius);
+  box-shadow: var(--nzpc-shadow);
+  padding: 1.5rem;
+}
+
+/* --------------------------------------------------------------------------
+   Tables
+   -------------------------------------------------------------------------- */
+.nzpc-table {
+  font-size: 1rem;
+  background: var(--nzpc-card);
+  border-radius: var(--nzpc-radius);
+  overflow: hidden;
+  box-shadow: var(--nzpc-shadow);
+  border: 1px solid var(--nzpc-line);
+}
+.nzpc-table thead th {
+  background-color: var(--nzpc-primary);
+  color: #fff;
+  border-color: var(--nzpc-primary-dark);
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+.nzpc-table td, .nzpc-table th { vertical-align: middle; }
+.nzpc-table tbody tr:nth-child(even) { background: var(--nzpc-primary-tint); }
+.nzpc-table tbody tr:hover { background: var(--nzpc-primary-soft); }
+.nzpc-results { border: 1px solid var(--nzpc-line); }
+
+/* --------------------------------------------------------------------------
+   Content blocks
+   -------------------------------------------------------------------------- */
+.nzpc-status ul { padding-left: 1.1rem; }
+.nzpc-docs {
+  background: var(--nzpc-primary-tint);
+  border: 1px solid var(--nzpc-primary-soft);
+  border-left: 4px solid var(--nzpc-secondary);
+  border-radius: var(--nzpc-radius);
+  padding: 1.25rem 1.5rem;
+  margin-top: 1.5rem;
+}
+.nzpc-docs h2 { color: var(--nzpc-primary); margin-top: 0; }
+
+/* --------------------------------------------------------------------------
+   Home: feature grid of section links
+   -------------------------------------------------------------------------- */
+.nzpc-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1.75rem 0;
+}
+.nzpc-feature {
+  display: flex;
+  flex-direction: column;
+  background: var(--nzpc-card);
+  border: 1px solid var(--nzpc-line);
+  border-radius: var(--nzpc-radius);
+  box-shadow: var(--nzpc-shadow);
+  padding: 1.4rem;
+  text-decoration: none !important;
+  transition: transform .14s ease, box-shadow .14s ease, border-color .14s ease;
+}
+.nzpc-feature:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--nzpc-shadow-hover);
+  border-color: var(--nzpc-primary-soft);
+}
+.nzpc-feature-icon {
+  width: 2.75rem; height: 2.75rem;
+  display: grid; place-items: center;
+  border-radius: .65rem;
+  background: var(--nzpc-primary-tint);
+  color: var(--nzpc-primary);
+  font-size: 1.4rem; font-weight: 800;
+  margin-bottom: .9rem;
+}
+.nzpc-feature h3 { color: var(--nzpc-primary); font-size: 1.15rem; margin-bottom: .35rem; }
+.nzpc-feature p { color: var(--nzpc-muted); margin-bottom: .9rem; font-size: .96rem; line-height: 1.55; }
+.nzpc-feature-cta { margin-top: auto; color: var(--nzpc-secondary); font-weight: 700; font-size: .95rem; }
+
+/* --------------------------------------------------------------------------
+   Results index: hero stats, featured card, year grid
+   -------------------------------------------------------------------------- */
+.nzpc-results-hero {
+  margin: -.5rem 0 2rem;
+  padding: 2.5rem clamp(1.25rem, 4vw, 3rem);
+  border-radius: var(--nzpc-radius-lg);
+  background: linear-gradient(135deg, var(--nzpc-primary) 0%, #2a3170 60%, #3a3f86 100%);
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--nzpc-shadow);
+}
+.nzpc-results-hero::after {
+  content: "";
+  position: absolute; right: -100px; bottom: -140px;
+  width: 320px; height: 320px;
+  background: radial-gradient(circle, rgba(192, 59, 47, .5), transparent 70%);
+}
+.nzpc-results-hero-eyebrow {
+  text-transform: uppercase; letter-spacing: .12em;
+  font-size: .8rem; font-weight: 700; color: #ffd9d4; margin-bottom: .4rem;
+}
+.nzpc-results-hero-title { color: #fff; margin-bottom: .6rem; }
+.nzpc-results-hero p, main.container .nzpc-results-hero-lead { color: rgba(255,255,255,.9); }
+.nzpc-results-hero-lead { max-width: 42rem; font-size: 1.1rem; margin-bottom: 1.6rem; }
+.nzpc-stat-row { display: flex; flex-wrap: wrap; gap: 2.5rem; position: relative; }
+.nzpc-stat { display: flex; flex-direction: column; }
+.nzpc-stat-num { font-family: var(--nzpc-font-display); font-size: 2rem; font-weight: 700; line-height: 1; }
+.nzpc-stat-label { font-size: .82rem; text-transform: uppercase; letter-spacing: .08em; color: rgba(255,255,255,.75); margin-top: .35rem; }
+
+.nzpc-featured {
+  display: block;
+  background: var(--nzpc-card);
+  border: 1px solid var(--nzpc-line);
+  border-top: 4px solid var(--nzpc-secondary);
+  border-radius: var(--nzpc-radius);
+  box-shadow: var(--nzpc-shadow);
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 2.5rem;
+  text-decoration: none !important;
+  transition: transform .14s ease, box-shadow .14s ease;
+}
+.nzpc-featured:hover { transform: translateY(-3px); box-shadow: var(--nzpc-shadow-hover); }
+.nzpc-featured-head { display: flex; align-items: center; gap: .9rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.nzpc-featured-badge {
+  background: var(--nzpc-secondary-tint); color: var(--nzpc-secondary-dark);
+  font-weight: 700; font-size: .72rem; text-transform: uppercase; letter-spacing: .09em;
+  padding: .25rem .6rem; border-radius: 999px;
+}
+.nzpc-featured-year { font-family: var(--nzpc-font-display); color: var(--nzpc-primary); margin: 0; font-size: 2rem; }
+.nzpc-featured-date { color: var(--nzpc-muted); font-size: .95rem; margin-left: auto; }
+.nzpc-featured-winners {
+  list-style: none; padding: 0; margin: 0 0 1rem;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: .6rem 1.5rem;
+}
+.nzpc-featured-winners li {
+  display: flex; flex-direction: column;
+  padding: .55rem .75rem; border-radius: .5rem; background: var(--nzpc-primary-tint);
+}
+.nzpc-featured-winners .nzpc-cat { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--nzpc-primary); font-weight: 700; }
+.nzpc-featured-winners .nzpc-team { font-weight: 700; color: var(--nzpc-ink); }
+.nzpc-featured-winners .nzpc-inst { font-size: .85rem; color: var(--nzpc-muted); }
+.nzpc-featured-cta { color: var(--nzpc-secondary); font-weight: 700; }
+
+.nzpc-archive-heading { margin-top: 2.5rem; }
+.nzpc-year-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+.nzpc-year-card {
+  display: flex; flex-direction: column;
+  background: var(--nzpc-card);
+  border: 1px solid var(--nzpc-line);
+  border-radius: var(--nzpc-radius);
+  box-shadow: var(--nzpc-shadow);
+  padding: 1.25rem;
+  text-decoration: none !important;
+  transition: transform .14s ease, box-shadow .14s ease, border-color .14s ease;
+}
+.nzpc-year-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--nzpc-shadow-hover);
+  border-color: var(--nzpc-primary-soft);
+}
+.nzpc-year-card-top { display: flex; align-items: baseline; justify-content: space-between; }
+.nzpc-year-card-year { font-family: var(--nzpc-font-display); font-size: 1.6rem; font-weight: 700; color: var(--nzpc-primary); }
+.nzpc-year-card-count { font-size: .78rem; color: var(--nzpc-muted); text-transform: uppercase; letter-spacing: .05em; }
+.nzpc-year-card-date { color: var(--nzpc-muted); font-size: .88rem; margin-top: .1rem; }
+.nzpc-year-card-list { list-style: none; padding: 0; margin: .9rem 0 1rem; }
+.nzpc-year-card-list li { font-size: .9rem; padding: .2rem 0; border-bottom: 1px solid var(--nzpc-line); color: #2a2e3a; }
+.nzpc-year-card-list li:last-child { border-bottom: none; }
+.nzpc-year-card-cat { color: var(--nzpc-primary); font-weight: 700; font-size: .74rem; text-transform: uppercase; letter-spacing: .04em; display: block; }
+.nzpc-year-card-cta { margin-top: auto; color: var(--nzpc-secondary); font-weight: 700; font-size: .92rem; }
+
+/* --------------------------------------------------------------------------
+   Results widget: switchable tabs (Winners / Contest Problems / Editorial)
+   -------------------------------------------------------------------------- */
+.nzpc-results-widget { margin: 1.5rem 0; }
+.nzpc-results-tabs { border-bottom: 2px solid var(--nzpc-line); gap: .25rem; }
+.nzpc-results-tabs .nav-link {
+  color: var(--nzpc-muted);
+  font-weight: 600;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  padding: .6rem 1rem;
+}
+.nzpc-results-tabs .nav-link:hover { background: var(--nzpc-primary-tint); color: var(--nzpc-primary); }
+.nzpc-results-tabs .nav-link.active {
+  color: var(--nzpc-primary);
+  background: transparent;
+  border-bottom-color: var(--nzpc-secondary);
+}
+.nzpc-results-panes { padding-top: 1.5rem; }
+.nzpc-embed-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-bottom: 1rem; }
+.nzpc-pdf-embed {
+  width: 100%;
+  height: 80vh;
+  min-height: 480px;
+  border: 1px solid var(--nzpc-line);
+  border-radius: var(--nzpc-radius);
+  box-shadow: var(--nzpc-shadow);
+}
+/* Subtle "open in new tab" link below the PDF viewer so it doesn't distract. */
+.nzpc-embed-openlink { margin: .6rem 0 0; font-size: .9rem; text-align: right; }
+main.container p.nzpc-embed-openlink a { color: var(--nzpc-muted); font-weight: 400; text-decoration: none; }
+main.container p.nzpc-embed-openlink a:hover { color: var(--nzpc-primary); text-decoration: underline; }
+
+/* Responsive images inside content */
+main.container img { max-width: 100%; height: auto; }
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+.nzpc-footer {
+  background: var(--nzpc-primary) !important;
+  border-top: 4px solid var(--nzpc-secondary);
+  color: #fff;
+}
+.nzpc-footer a { color: #fff; }
+
+/* --------------------------------------------------------------------------
+   Winning Teams: switchable per-category widget on the standalone archive
+   pages. Self-contained (no Bootstrap dependency).
+   -------------------------------------------------------------------------- */
+.nzpc-wt-widget {
+  max-width: 1140px;
+  margin: 0 auto 2rem;
+  padding: 0 12px;
+  font-family: "Libertinus Serif", Georgia, "Times New Roman", serif;
+}
+.nzpc-wt-title {
+  font-family: "Fraunces", "Libertinus Serif", Georgia, serif;
+  color: #1a2156;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  margin: .25rem 0 1.25rem;
+}
+.nzpc-wt-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  border-bottom: 2px solid #e4e6ef;
+  margin-bottom: 1.5rem;
+}
+.nzpc-wt-tab {
+  appearance: none;
+  border: none;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+  color: #5b6172;
+  font-weight: 600;
+  padding: .6rem 1rem;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  border-radius: .4rem .4rem 0 0;
+  transition: background .15s ease, color .15s ease;
+}
+.nzpc-wt-tab:hover { background: #eceef6; color: #1a2156; }
+.nzpc-wt-tab.nzpc-active {
+  color: #1a2156;
+  border-bottom-color: #c03b2f;
+}
+.nzpc-wt-pane { display: none; }
+.nzpc-wt-pane.nzpc-active { display: block; animation: nzpc-wt-fade .2s ease; }
+@keyframes nzpc-wt-fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+.nzpc-wt-card {
+  display: grid;
+  grid-template-columns: minmax(240px, 340px) 1fr;
+  gap: 1.75rem;
+  align-items: start;
+  background: #fff;
+  border: 1px solid #e4e6ef;
+  border-top: 4px solid #c03b2f;
+  border-radius: .75rem;
+  box-shadow: 0 1px 2px rgba(26,33,86,.06), 0 8px 24px rgba(26,33,86,.08);
+  padding: 1.5rem 1.75rem;
+}
+.nzpc-wt-cat {
+  font-family: "Fraunces", "Libertinus Serif", Georgia, serif;
+  color: #1a2156;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 0 0 .75rem;
+}
+.nzpc-wt-info p { margin: .25rem 0; color: #2a2e3a; line-height: 1.55; }
+.nzpc-wt-info p:first-of-type { font-weight: 700; font-size: 1.1rem; color: #1b1d24; }
+.nzpc-wt-note { color: #c03b2f !important; font-weight: 600; }
+.nzpc-wt-media img {
+  width: 100%;
+  height: auto;
+  border-radius: .5rem;
+  border: 1px solid #e4e6ef;
+  display: block;
+}
+.nzpc-wt-nophoto {
+  display: grid;
+  place-items: center;
+  min-height: 180px;
+  background: #eceef6;
+  border: 1px dashed #c3c8dd;
+  border-radius: .5rem;
+  color: #5b6172;
+  font-style: italic;
+}
+@media (max-width: 720px) {
+  .nzpc-wt-card { grid-template-columns: 1fr; }
+}
+
+/* Scoreboard block placed after the winner card inside each category pane. */
+.nzpc-wt-scoreboard { margin-top: 1.5rem; }
+.nzpc-wt-scoreboard > summary {
+  cursor: pointer;
+  font-family: "Fraunces", "Libertinus Serif", Georgia, serif;
+  font-weight: 700;
+  color: #1a2156;
+  font-size: 1.15rem;
+  padding: .6rem .9rem;
+  background: #eceef6;
+  border: 1px solid #dfe2f0;
+  border-radius: .6rem;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+.nzpc-wt-scoreboard > summary::-webkit-details-marker { display: none; }
+.nzpc-wt-scoreboard > summary::before { content: "\25B8"; color: #c03b2f; transition: transform .15s ease; }
+.nzpc-wt-scoreboard[open] > summary::before { transform: rotate(90deg); }
+.nzpc-wt-scoreboard-body { padding: 1rem 0; overflow-x: auto; }
+.nzpc-wt-scoreboard-body img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 0 .5rem;
+  border: 1px solid #e4e6ef;
+  border-radius: .4rem;
+}
+
+/* Restyle the archived DOMjudge scoreboard tables to the site palette. */
+table.scoreboard {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: .82rem;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #fff;
+  border: 1px solid #e4e6ef;
+  border-radius: .5rem;
+  overflow: hidden;
+}
+table.scoreboard th, table.scoreboard td {
+  border: 1px solid #e9ecf5;
+  padding: .3rem .45rem;
+  text-align: center;
+}
+table.scoreboard tr.scoreheader th, table.scoreboard thead th {
+  background: #1a2156;
+  color: #fff;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+}
+table.scoreboard tr.scoreheader th a { color: #fff; }
+table.scoreboard .scoretn { text-align: left; }
+table.scoreboard .scoretn a { color: #1a2156; font-weight: 600; }
+table.scoreboard .univ { color: #5b6172; font-weight: 400; font-size: .78rem; }
+table.scoreboard .scorepl { font-weight: 700; color: #1a2156; }
+table.scoreboard .scorenc, table.scoreboard .scorett { font-weight: 600; }
+table.scoreboard .score_correct { background: #e6f4ea; color: #14663a; }
+table.scoreboard .score_first { background: #b7e4c7; color: #0b4d2a; font-weight: 700; }
+table.scoreboard .score_incorrect { background: #fbeae8; color: #9a2c22; }
+table.scoreboard .score_pending { background: #fff6e0; color: #7a5a00; }
+table.scoreboard .score_neutral { color: #aeb4c7; }
+table.scoreboard .heart { display: none; }
+
+/* --------------------------------------------------------------------------
+   Archive chrome injected into the standalone Scoreboard / WinningTeams pages.
+   Self-contained (no Bootstrap dependency) so it never clashes with the
+   DOMjudge stylesheets those pages carry.
+   -------------------------------------------------------------------------- */
+.nzpc-archive-header {
+  background: #fff !important;
+  border-bottom: 1px solid #e4e6ef;
+  box-shadow: 0 1px 12px rgba(26, 33, 86, .05);
+  margin: 0 0 1.5rem 0;
+  padding: .75rem 0;
+  font-family: "Libertinus Serif", Georgia, "Times New Roman", serif;
+}
+.nzpc-archive-inner {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 12px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.nzpc-archive-header a { text-decoration: none !important; }
+.nzpc-archive-brand { display: flex; align-items: center; gap: .5rem; margin-right: auto; }
+.nzpc-archive-brand img { height: 44px !important; width: auto !important; }
+.nzpc-archive-brand span { font-family: "Fraunces", "Libertinus Serif", Georgia, serif; color: #1a2156; font-weight: 700; font-size: 1.1rem; }
+.nzpc-archive-nav { display: flex; gap: .35rem; flex-wrap: wrap; }
+.nzpc-archive-nav a {
+  color: #1a2156 !important;
+  font-weight: 600;
+  padding: .4rem .9rem;
+  border-radius: .5rem;
+}
+.nzpc-archive-nav a:hover { background: #eceef6 !important; }
+.nzpc-archive-footer {
+  margin: 2.5rem 0 0 0;
+  padding: 1rem 0;
+  background: #1a2156 !important;
+  color: #fff !important;
+  font-family: "Libertinus Serif", Georgia, "Times New Roman", serif;
+  border-top: 4px solid #c03b2f;
+}
+.nzpc-archive-footer .nzpc-archive-inner { color: #fff !important; }
+.nzpc-archive-footer a { color: #fff !important; }
