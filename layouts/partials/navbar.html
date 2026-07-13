@@ -1,0 +1,21 @@
+{{/* Active state is derived from the URL, so no per-page front matter is needed. */}}
+{{ $path := .RelPermalink }}
+<nav class="navbar navbar-expand-md nzpc-navbar border-bottom mb-4">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center gap-2" href="/">
+      <img src="{{ site.Params.navLogo }}" alt="NZPC logo" class="nzpc-navbar-logo">
+      <span class="nzpc-navbar-title d-none d-lg-inline">New Zealand Programming Contest</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nzpc-nav" aria-controls="nzpc-nav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="nzpc-nav">
+      <ul class="navbar-nav nav-pills">
+        <li class="nav-item"><a href="/" class="nav-link px-3{{ if or (eq $path "/") (hasPrefix $path "/categories") (hasPrefix $path "/sites") }} active{{ end }}">Home</a></li>
+        <li class="nav-item"><a href="/register/" class="nav-link px-3{{ if hasPrefix $path "/register" }} active{{ end }}">Registration</a></li>
+        <li class="nav-item"><a href="/documentation/" class="nav-link px-3{{ if or (hasPrefix $path "/documentation") (hasPrefix $path "/rules") (hasPrefix $path "/guides") }} active{{ end }}">Documentation</a></li>
+        <li class="nav-item"><a href="/results/" class="nav-link px-3{{ if hasPrefix $path "/results" }} active{{ end }}">Results</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>

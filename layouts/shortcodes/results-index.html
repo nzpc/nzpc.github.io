@@ -1,0 +1,82 @@
+{{/* Builds the results archive index from the data/results/*.yaml files.
+     Renders a hero band with aggregate stats, a featured card for the most
+     recent year, and a responsive grid of per-year cards. */}}
+{{ $years := slice }}
+{{ range $k, $v := site.Data.results }}{{ $years = $years | append $k }}{{ end }}
+{{ $years = sort $years "value" "desc" }}
+
+{{ if $years }}
+{{ $latest := index $years 0 }}
+{{ $latestData := index site.Data.results $latest }}
+{{ $earliest := index $years (sub (len $years) 1) }}
+{{ $winnerCount := 0 }}
+{{ range $y := $years }}{{ $d := index site.Data.results $y }}{{ $winnerCount = add $winnerCount (len $d.winners) }}{{ end }}
+
+<section class="nzpc-results-hero">
+  <div class="nzpc-results-hero-inner">
+    <p class="nzpc-results-hero-eyebrow">The archive</p>
+    <h1 class="nzpc-results-hero-title">Contest Results</h1>
+    <p class="nzpc-results-hero-lead">
+      Winning teams, contest problems and editorials from every New Zealand
+      Programming Contest since {{ $earliest }}.
+    </p>
+    <div class="nzpc-stat-row">
+      <div class="nzpc-stat">
+        <span class="nzpc-stat-num">{{ len $years }}</span>
+        <span class="nzpc-stat-label">years archived</span>
+      </div>
+      <div class="nzpc-stat">
+        <span class="nzpc-stat-num">{{ $earliest }}&ndash;{{ $latest }}</span>
+        <span class="nzpc-stat-label">span</span>
+      </div>
+      <div class="nzpc-stat">
+        <span class="nzpc-stat-num">{{ $winnerCount }}</span>
+        <span class="nzpc-stat-label">category winners</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* --- Featured latest year --- */}}
+<a class="nzpc-featured" href="/results/{{ $latest }}/">
+  <div class="nzpc-featured-head">
+    <span class="nzpc-featured-badge">Latest</span>
+    <h2 class="nzpc-featured-year">{{ $latest }}</h2>
+    {{ with $latestData.dateText }}<span class="nzpc-featured-date">{{ . }}</span>{{ end }}
+  </div>
+  <ul class="nzpc-featured-winners">
+    {{ range $latestData.winners }}
+    <li>
+      <span class="nzpc-cat">{{ .category }}</span>
+      <span class="nzpc-team">{{ .team }}</span>
+      {{ with .institution }}<span class="nzpc-inst">{{ . }}</span>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  <span class="nzpc-featured-cta">View winners, problems &amp; editorial &rarr;</span>
+</a>
+
+{{/* --- Grid of remaining years --- */}}
+{{ if gt (len $years) 1 }}
+<h2 class="nzpc-archive-heading">Browse the archive</h2>
+<div class="nzpc-year-grid">
+  {{ range after 1 $years }}
+  {{ $y := . }}
+  {{ $d := index site.Data.results $y }}
+  <a class="nzpc-year-card" href="/results/{{ $y }}/">
+    <div class="nzpc-year-card-top">
+      <span class="nzpc-year-card-year">{{ $y }}</span>
+      <span class="nzpc-year-card-count">{{ len $d.winners }} winners</span>
+    </div>
+    {{ with $d.dateText }}<span class="nzpc-year-card-date">{{ . }}</span>{{ end }}
+    <ul class="nzpc-year-card-list">
+      {{ range $d.winners }}
+      <li><span class="nzpc-year-card-cat">{{ .category }}</span> {{ .team }}</li>
+      {{ end }}
+    </ul>
+    <span class="nzpc-year-card-cta">View results &rarr;</span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}

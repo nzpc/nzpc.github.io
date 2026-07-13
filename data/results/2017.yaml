@@ -1,0 +1,28 @@
+year: 2017
+problemsPDF: /ProblemSets/NZPC_2017.pdf
+winners:
+  - category: School
+    team: P = NP
+    institution: Christ's College
+    points: 139
+    scoreboard: /Scoreboards/2017/WinningTeams2017.html#School
+  - category: Tertiary Junior
+    team: The Gardiner Party
+    institution: University of Auckland
+    points: 109
+    scoreboard: /Scoreboards/2017/WinningTeams2017.html#TJunior
+  - category: Tertiary Intermediate
+    team: LoremIpsum
+    institution: University of Auckland
+    points: 100
+    scoreboard: /Scoreboards/2017/WinningTeams2017.html#TIntermediate
+  - category: Tertiary Open
+    team: int*
+    institution: University of Canterbury
+    points: 342
+    scoreboard: /Scoreboards/2017/WinningTeams2017.html#TOpen
+  - category: Open
+    team: S^3
+    institution: Independent
+    points: 212
+    scoreboard: /Scoreboards/2017/WinningTeams2017.html#Open

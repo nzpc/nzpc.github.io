@@ -1,0 +1,32 @@
+year: 2023
+dateText: Saturday 19th August
+problemsPDF: /ProblemSets/NZPC_2023_Contest.pdf
+statisticsPDF: /Editorials/2023/Statistics.pdf
+editorials:
+  - label: 3 and 10 points
+    url: /Editorials/2023/Editorials3-10.pdf
+  - label: 30 points
+    url: /Editorials/2023/Editorials30.pdf
+  - label: 100 points
+    url: /Editorials/2023/Editorials100.pdf
+winners:
+  - category: School
+    team: squad team
+    institution: Rangitoto College
+    scoreboard: /Scoreboards/2023/WinningTeams2023.html#School
+  - category: Tertiary Junior
+    team: Among
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2023/WinningTeams2023.html#TJunior
+  - category: Tertiary Intermediate
+    team: hmm
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2023/WinningTeams2023.html#TIntermediate
+  - category: Tertiary Open
+    team: prog4pain
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2023/WinningTeams2023.html#TOpen
+  - category: Open
+    team: Griffin Practice
+    institution: ""
+    scoreboard: /Scoreboards/2023/WinningTeams2023.html#Open

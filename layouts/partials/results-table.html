@@ -1,0 +1,97 @@
+{{/* Renders one year's results as a switchable widget. Tabs: Winners, Contest
+     Problems, then one tab per editorial document (and Contest Statistics).
+     Expects the year's data map as context, e.g.
+     {{ partial "results-table.html" (index site.Data.results "2025") }}
+     PDFs are lazy-loaded: an embed's src is only set when its tab is opened. */}}
+{{ $r := . }}
+{{ $year := $r.year }}
+
+{{ with $r.dateText }}<p class="text-muted">The contest was held on {{ . }}.</p>{{ end }}
+{{ with $r.intro }}<p>{{ . }}</p>{{ end }}
+
+<div class="nzpc-results-widget">
+  <ul class="nav nav-tabs nzpc-results-tabs" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button class="nav-link active" id="tab-winners-{{ $year }}-btn" data-bs-toggle="tab" data-bs-target="#tab-winners-{{ $year }}" type="button" role="tab">Winners</button>
+    </li>
+    {{ with $r.problemsPDF }}
+    <li class="nav-item" role="presentation">
+      <button class="nav-link" id="tab-problems-{{ $year }}-btn" data-bs-toggle="tab" data-bs-target="#tab-problems-{{ $year }}" type="button" role="tab">Contest Problems</button>
+    </li>
+    {{ end }}
+    {{ range $i, $e := $r.editorials }}
+    <li class="nav-item" role="presentation">
+      <button class="nav-link" id="tab-editorial-{{ $year }}-{{ $i }}-btn" data-bs-toggle="tab" data-bs-target="#tab-editorial-{{ $year }}-{{ $i }}" type="button" role="tab">{{ if eq (len $r.editorials) 1 }}Editorial{{ else }}Editorial: {{ $e.label }}{{ end }}</button>
+    </li>
+    {{ end }}
+    {{ with $r.statisticsPDF }}
+    <li class="nav-item" role="presentation">
+      <button class="nav-link" id="tab-statistics-{{ $year }}-btn" data-bs-toggle="tab" data-bs-target="#tab-statistics-{{ $year }}" type="button" role="tab">Statistics</button>
+    </li>
+    {{ end }}
+  </ul>
+
+  <div class="tab-content nzpc-results-panes">
+    {{/* --- Winners --- */}}
+    <div class="tab-pane fade show active" id="tab-winners-{{ $year }}" role="tabpanel" aria-labelledby="tab-winners-{{ $year }}-btn">
+      <div class="table-responsive">
+        <table class="table table-bordered nzpc-table nzpc-results align-middle">
+          <thead>
+            <tr><th scope="col">Category</th><th scope="col">Winners</th><th scope="col">Details</th></tr>
+          </thead>
+          <tbody>
+            {{ range $r.winners }}
+            {{ $cat := .category }}
+            <tr>
+              <td>{{ .category }}</td>
+              <td>
+                <strong>{{ .team }}</strong>{{ with .institution }}, {{ . }}{{ end }}{{ with .points }}, {{ . }} points{{ end }}
+                {{ with .note }}<br>{{ . }}{{ end }}
+              </td>
+              <td>{{ with .scoreboard }}<a href="{{ . }}">Winners &amp; scoreboard</a>{{ end }}</td>
+            </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    {{/* --- Contest Problems --- */}}
+    {{ with $r.problemsPDF }}
+    <div class="tab-pane fade" id="tab-problems-{{ $year }}" role="tabpanel" aria-labelledby="tab-problems-{{ $year }}-btn">
+      <iframe class="nzpc-pdf-embed" data-src="{{ . }}" title="{{ $year }} contest problems"></iframe>
+      <p class="nzpc-embed-openlink"><a href="{{ . }}" target="_blank" rel="noopener">Open the problem set in a new browser tab &rarr;</a></p>
+    </div>
+    {{ end }}
+
+    {{/* --- Editorial documents (one pane each) --- */}}
+    {{ range $i, $e := $r.editorials }}
+    <div class="tab-pane fade" id="tab-editorial-{{ $year }}-{{ $i }}" role="tabpanel" aria-labelledby="tab-editorial-{{ $year }}-{{ $i }}-btn">
+      <iframe class="nzpc-pdf-embed" data-src="{{ $e.url }}" title="{{ $year }} editorial {{ $e.label }}"></iframe>
+      <p class="nzpc-embed-openlink"><a href="{{ $e.url }}" target="_blank" rel="noopener">Open this editorial in a new browser tab &rarr;</a></p>
+    </div>
+    {{ end }}
+
+    {{/* --- Contest Statistics --- */}}
+    {{ with $r.statisticsPDF }}
+    <div class="tab-pane fade" id="tab-statistics-{{ $year }}" role="tabpanel" aria-labelledby="tab-statistics-{{ $year }}-btn">
+      <iframe class="nzpc-pdf-embed" data-src="{{ . }}" title="{{ $year }} contest statistics"></iframe>
+      <p class="nzpc-embed-openlink"><a href="{{ . }}" target="_blank" rel="noopener">Open the statistics in a new browser tab &rarr;</a></p>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<script>
+(function () {
+  document.querySelectorAll('.nzpc-results-tabs [data-bs-toggle="tab"]').forEach(function (btn) {
+    btn.addEventListener('shown.bs.tab', function (e) {
+      var pane = document.querySelector(e.target.getAttribute('data-bs-target'));
+      var frame = pane && pane.querySelector('iframe[data-src]');
+      if (frame && !frame.getAttribute('src')) {
+        frame.setAttribute('src', frame.getAttribute('data-src'));
+      }
+    });
+  });
+})();
+</script>

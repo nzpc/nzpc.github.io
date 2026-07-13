@@ -1,0 +1,25 @@
+<div class="table-responsive">
+  <table class="table table-striped nzpc-table align-middle">
+    <thead>
+      <tr>
+        <th scope="col">Site</th>
+        <th scope="col">Host</th>
+        <th scope="col">Site Director</th>
+        <th scope="col">Further information</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range site.Data.sites }}
+      {{ $name := .site }}
+      <tr>
+        <td>{{ .site }}</td>
+        <td>{{ .host }}</td>
+        <td><a href="mailto:{{ .director.email }}">{{ .director.name }}</a></td>
+        <td>
+          {{ with .localPage }}<a href="{{ . }}"{{ if not (hasPrefix . "/") }} target="_blank" rel="noopener"{{ end }}>{{ $name }} Local Page</a>{{ else }}&mdash;{{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

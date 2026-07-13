@@ -1,0 +1,27 @@
+year: 2022
+intro: After 2 years of online contests, this year we were back on site.
+problemsPDF: /ProblemSets/NZPC_2022_Contest.pdf
+editorials:
+  - label: Editorials
+    url: /Editorials/NZPC_2022_Editorials.pdf
+winners:
+  - category: School
+    team: Syzygy
+    institution: Mt Albert Grammar School
+    scoreboard: /Scoreboards/2022/WinningTeams2022.html#School
+  - category: Tertiary Junior
+    team: The Lobb Fan Club
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2022/WinningTeams2022.html#TJunior
+  - category: Tertiary Intermediate
+    team: CAJ
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2022/WinningTeams2022.html#TIntermediate
+  - category: Tertiary Open
+    team: cflat
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2022/WinningTeams2022.html#TOpen
+  - category: Open
+    team: Griffin
+    institution: Independent
+    scoreboard: /Scoreboards/2022/WinningTeams2022.html#Open

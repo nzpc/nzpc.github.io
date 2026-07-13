@@ -1,0 +1,29 @@
+year: 2019
+problemsPDF: /ProblemSets/NZPC_2019.pdf
+winners:
+  - category: School
+    team: Sparse Table
+    institution: combined school team
+    points: 386
+    note: "Top school: Steve++, Burnside High School, 282 points"
+    scoreboard: /Scoreboards/2019/WinningTeams2019.html#School
+  - category: Tertiary Junior
+    team: DSL
+    institution: University of Waikato
+    points: 42
+    scoreboard: /Scoreboards/2019/WinningTeams2019.html#TJunior
+  - category: Tertiary Intermediate
+    team: RTIMSE
+    institution: University of Waikato
+    points: 213
+    scoreboard: /Scoreboards/2019/WinningTeams2019.html#TIntermediate
+  - category: Tertiary Open
+    team: addQq7O92S6487
+    institution: University of Auckland
+    points: 572
+    scoreboard: /Scoreboards/2019/WinningTeams2019.html#TOpen
+  - category: Open
+    team: Team Ignite
+    institution: Independent
+    points: 302
+    scoreboard: /Scoreboards/2019/WinningTeams2019.html#Open

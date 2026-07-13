@@ -1,0 +1,16 @@
+{{/* Generates one results page per year from data/results/<year>.yaml, so
+     adding a contest year only needs a new YAML data file (no content stub).
+     The matching template is layouts/results/single.html. */}}
+{{ range $year, $data := site.Data.results }}
+  {{ $content := dict
+    "mediaType" "text/html"
+    "value" ""
+  }}
+  {{ $.AddPage (dict
+    "kind" "page"
+    "path" $year
+    "title" (printf "New Zealand Programming Contest %s Results" $year)
+    "params" (dict "year" $year)
+    "content" $content
+  ) }}
+{{ end }}

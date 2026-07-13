@@ -1,0 +1,29 @@
+year: 2016
+problemsPDF: /ProblemSets/NZPC_2016.pdf
+winners:
+  - category: School
+    team: Sorry_Ralph ver 1.0
+    institution: Combined school team
+    points: 172
+    note: "Top School: 2 Christophers Rappaz, Christ's College, 82 points"
+    scoreboard: /Scoreboards/2016/WinningTeams2016.html#School
+  - category: Tertiary Junior
+    team: AUT 22
+    institution: AUT University
+    points: 42
+    scoreboard: /Scoreboards/2016/WinningTeams2016.html#TJunior
+  - category: Tertiary Intermediate
+    team: PSPACEcreated
+    institution: University of Canterbury
+    points: 172
+    scoreboard: /Scoreboards/2016/WinningTeams2016.html#TIntermediate
+  - category: Tertiary Open
+    team: Ancient Penguins
+    institution: University of Auckland
+    points: 112
+    scoreboard: /Scoreboards/2016/WinningTeams2016.html#TOpen
+  - category: Open
+    team: S^3
+    institution: Independent
+    points: 242
+    scoreboard: /Scoreboards/2016/WinningTeams2016.html#Open

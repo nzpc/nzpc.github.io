@@ -1,0 +1,24 @@
+year: 2021
+intro: The contest this year was held entirely online because of the outbreak of the Delta Variant of Covid-19.
+problemsPDF: /ProblemSets/NZPC_2021_Contest.pdf
+winners:
+  - category: School
+    team: Steve++
+    institution: Burnside High School
+    scoreboard: /Scoreboards/2021/WinningTeams2021.html#School
+  - category: Tertiary Junior
+    team: Coding Coconuts
+    institution: Victoria University of Wellington
+    scoreboard: /Scoreboards/2021/WinningTeams2021.html#TJunior
+  - category: Tertiary Intermediate
+    team: SE2 Noobies
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2021/WinningTeams2021.html#TIntermediate
+  - category: Tertiary Open
+    team: Trie-O
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2021/WinningTeams2021.html#TOpen
+  - category: Open
+    team: YS
+    institution: Independent
+    scoreboard: /Scoreboards/2021/WinningTeams2021.html#Open

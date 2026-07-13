@@ -1,0 +1,23 @@
+year: 2020
+problemsPDF: /ProblemSets/NZPC_2020.pdf
+winners:
+  - category: School
+    team: Steve++
+    institution: Burnside High School
+    scoreboard: /Scoreboards/2020/WinningTeams2020.html#School
+  - category: Tertiary Junior
+    team: Gardiner's Garden ..
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2020/WinningTeams2020.html#TJunior
+  - category: Tertiary Intermediate
+    team: Proof by Inducktion
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2020/WinningTeams2020.html#TIntermediate
+  - category: Tertiary Open
+    team: Trie-O
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2020/WinningTeams2020.html#TOpen
+  - category: Open
+    team: Undocumented Integers
+    institution: Independent
+    scoreboard: /Scoreboards/2020/WinningTeams2020.html#Open

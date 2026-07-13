@@ -1,0 +1,23 @@
+{{/* Shared content shell used by every page (home, sections and single pages)
+     so the whole site renders through one consistent layout. The home page
+     gets a hero band; every other page gets a standard title + content. */}}
+{{ if .IsHome }}
+<section class="nzpc-hero">
+  <p class="nzpc-hero-eyebrow">Est. 1990s &middot; nationwide</p>
+  <h1>New Zealand Programming Contest</h1>
+  <p class="nzpc-hero-lead">
+    An annual team programming contest open to school, tertiary and open
+    competitors across New Zealand. The next contest is planned for
+    <strong>{{ site.Params.contestDateText }}</strong>.
+  </p>
+  <div class="nzpc-hero-actions">
+    <a class="nzpc-btn" href="/register/">Register a team</a>
+    <a class="nzpc-btn nzpc-btn-outline" href="{{ site.Params.domjudgeServerURL }}" target="_blank" rel="noopener">Contest server</a>
+    <a class="nzpc-btn nzpc-btn-outline" href="/results/">Past results</a>
+  </div>
+</section>
+{{ .Content }}
+{{ else }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ end }}

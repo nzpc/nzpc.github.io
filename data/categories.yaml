@@ -1,0 +1,20 @@
+# Contest categories and entry fees (fees are in NZ dollars).
+- name: School
+  description: Team members must all attend a secondary school in New Zealand. This includes a home school.
+  fee: 30
+
+- name: Tertiary Junior
+  description: Usually first year university or polytechnic students. Have not started any second year papers.
+  fee: 75
+
+- name: Tertiary Intermediate
+  description: Usually second year university or polytechnic students. Have not started any third year papers.
+  fee: 75
+
+- name: Tertiary Open
+  description: University or polytechnic students who do not qualify for the previous 2 categories.
+  fee: 75
+
+- name: Open
+  description: Anybody not eligible for categories 1 to 4. Usually professional programmers.
+  fee: 120

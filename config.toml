@@ -1,4 +1,40 @@
 baseURL = 'https://nzpc.github.io/'
 languageCode = 'en-us'
 title = 'New Zealand Programming Contest'
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "term"]
+
+# This site uses .html content files (results, sites, categories, registration).
+# Hugo >= 0.164 blocks text/html content by default, so allow it explicitly.
+[security]
+  allowContent = ['.*']
+
+# ---------------------------------------------------------------------------
+# Central information store. Edit values here and they update across the site.
+# ---------------------------------------------------------------------------
+[params]
+  contestYear     = 2026
+  contestDateText = "Saturday 8 August 2026"
+
+  # Key URLs (single source of truth).
+  # TODO(conflict): weltec.html previously used domserver.cosc.canterbury.ac.nz.
+  #                 Canonical value is csse.* below - confirm which is correct.
+  domjudgeURL = "https://domserver.csse.canterbury.ac.nz/public"
+  # The DOMjudge server used for the contest (login / judging on the day).
+  domjudgeServerURL = "https://domserver.csse.canterbury.ac.nz/"
+
+  # prog4fun: past questions and practice.
+  prog4funURL = "https://prog4fun.csse.canterbury.ac.nz/"
+
+  # SPAR contest (overseas teams; same problem set, runs concurrently).
+  sparURL = "https://sppcontests.org/spar-2026/"
+
+  # TeamUp registration (the usual reservation route; per-site methods may vary).
+  teamupURL  = "https://teamup.sppcontests.org/"
+  teamupCode = "NZPC2026"
+
+  # Footer / branding.
+  copyrightFrom = 2023           # end year is computed automatically (now.Year)
+
+  # Images (published from static/images/).
+  navLogo = "/images/NZPC.png"   # square logo, shown in the navbar
+  ogImage = "/images/NZPC.png"   # social / Open Graph preview image

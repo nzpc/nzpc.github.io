@@ -1,0 +1,67 @@
+# Contest sites. Drives BOTH the About > Sites table and the Registration
+# reservation table. Edit here to update both.
+#
+# reserve.method: form | email | none
+#   form  -> shows "complete this form" linking reserve.url
+#   email -> shows "email the site director" (uses director.email)
+#   none  -> shows "just turn up" / no reservation needed
+
+- site: Auckland
+  host: University of Auckland
+  director:
+    name: Rajko Nenadov
+    email: rajko.nenadov@auckland.ac.nz
+  localPage: https://www.cs.auckland.ac.nz/our_department/prog_contest/
+  reserve:
+    method: form
+    url: https://forms.gle/D8JWY7MfhYBZHifo6
+
+- site: Hamilton
+  host: University of Waikato
+  director:
+    name: Tom Levy
+    email: tomlevy93@gmail.com
+  localPage: https://nzpc-hamilton.github.io/
+  reserve:
+    method: none
+
+- site: Wellington
+  host: Wellington Institute of Technology
+  director:
+    name: Chalinor Baliuag
+    email: Chalinor.Baliuag@weltec.ac.nz
+  localPage: /sites/weltec/
+  reserve:
+    method: email
+
+- site: Christchurch
+  host: University of Canterbury
+  director:
+    name: Ke He
+    email: ke.he@canterbury.ac.nz
+  localPage: http://www.csse.canterbury.ac.nz/richard.lobb/nzpc.html
+  reserve:
+    method: form
+    url: https://docs.google.com/forms/d/e/1FAIpQLSfwPdiH9Ui7gMfhPaWM5O6OJkWLnlKhEQwB_i3-B3ShUn1r2Q/viewform
+
+# TODO(conflict): Dunedin director differs between the old pages.
+#   sites/_index.html     -> Tony Savarimuthu (tony.savarimuthu@otago.ac.nz)
+#   register/registeropen -> David Eyers      (dme@cs.otago.ac.nz)
+# Using the sites-page value below. Confirm which is correct.
+- site: Dunedin
+  host: University of Otago
+  director:
+    name: Tony Savarimuthu
+    email: tony.savarimuthu@otago.ac.nz
+  localPage: http://www.cs.otago.ac.nz/staffpriv/dme/contest/
+  reserve:
+    method: email
+
+- site: Invercargill
+  host: James Hargest College
+  director:
+    name: Sarah Greeff
+    email: sgreeff@jameshargest.school.nz
+  localPage: https://projectspace.nz/jameshargestschool/jhc/nzpc/
+  reserve:
+    method: email

@@ -1,0 +1,28 @@
+year: 2025
+dateText: Saturday 9th August
+problemsPDF: /ProblemSets/NZPC_2025_Contest.pdf
+statisticsPDF: /Editorials/2025/Statistics.pdf
+editorials:
+  - label: 3 and 10 points
+    url: /Editorials/2025/Editorials3-10.pdf
+winners:
+  - category: School
+    team: HappyCapybara
+    institution: Mt Albert Grammar School
+    scoreboard: /Scoreboards/2025/WinningTeams2025.html#School
+  - category: Tertiary Junior
+    team: Better than OSC1
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2025/WinningTeams2025.html#TJunior
+  - category: Tertiary Intermediate
+    team: rm -rfv /
+    institution: University of Canterbury
+    scoreboard: /Scoreboards/2025/WinningTeams2025.html#TIntermediate
+  - category: Tertiary Open
+    team: Just Regular Sauerkraut
+    institution: University of Auckland
+    scoreboard: /Scoreboards/2025/WinningTeams2025.html#TOpen
+  - category: Open
+    team: Griffin
+    institution: ""
+    scoreboard: /Scoreboards/2025/WinningTeams2025.html#Open

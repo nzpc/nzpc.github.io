@@ -1,0 +1,28 @@
+year: 2018
+problemsPDF: /ProblemSets/NZPC_2018.pdf
+winners:
+  - category: School
+    team: BHSteve
+    institution: Burnside High School
+    points: 82
+    scoreboard: /Scoreboards/2018/WinningTeams2018.html#School
+  - category: Tertiary Junior
+    team: MSPPITC
+    institution: University of Waikato
+    points: 100
+    scoreboard: /Scoreboards/2018/WinningTeams2018.html#TJunior
+  - category: Tertiary Intermediate
+    team: xkcd327
+    institution: University of Auckland
+    points: 182
+    scoreboard: /Scoreboards/2018/WinningTeams2018.html#TIntermediate
+  - category: Tertiary Open
+    team: My Jianbei Can't Be This Cute
+    institution: University of Auckland
+    points: 272
+    scoreboard: /Scoreboards/2018/WinningTeams2018.html#TOpen
+  - category: Open
+    team: S^3
+    institution: Independent
+    points: 182
+    scoreboard: /Scoreboards/2018/WinningTeams2018.html#Open

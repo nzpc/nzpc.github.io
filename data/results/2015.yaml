@@ -1,0 +1,28 @@
+year: 2015
+problemsPDF: /ProblemSets/NZPC_2015.pdf
+winners:
+  - category: School
+    team: Free will
+    institution: Auckland
+    points: 166
+    scoreboard: /Scoreboards/2015/WinningTeams2015.html#School
+  - category: Tertiary Junior
+    team: You Make Me NP-Complete
+    institution: Christchurch
+    points: 82
+    scoreboard: /Scoreboards/2015/WinningTeams2015.html#TJunior
+  - category: Tertiary Intermediate
+    team: Cafe Babe
+    institution: Auckland
+    points: 239
+    scoreboard: /Scoreboards/2015/WinningTeams2015.html#TIntermediate
+  - category: Tertiary Open
+    team: Trigraph
+    institution: University of Waikato
+    points: 162
+    scoreboard: /Scoreboards/2015/WinningTeams2015.html#TOpen
+  - category: Open
+    team: Perplexico
+    institution: Auckland
+    points: 396
+    scoreboard: /Scoreboards/2015/WinningTeams2015.html#Open
