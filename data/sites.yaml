@@ -9,8 +9,8 @@
 - site: Auckland
   host: University of Auckland
   director:
-    name: Rajko Nenadov
-    email: rajko.nenadov@auckland.ac.nz
+    name: Marc Vinyals
+    email: marc.vinyals@auckland.ac.nz
   localPage: https://www.cs.auckland.ac.nz/our_department/prog_contest/
   reserve:
     method: form
@@ -51,8 +51,8 @@
 - site: Dunedin
   host: University of Otago
   director:
-    name: Tony Savarimuthu
-    email: tony.savarimuthu@otago.ac.nz
+    name: Tony Savarimuthu/Zhiyi Huang
+    email: tony.savarimuthu@otago.ac.nz,zhiyi.huang@otago.ac.nz
   localPage: http://www.cs.otago.ac.nz/staffpriv/dme/contest/
   reserve:
     method: email

@@ -106,7 +106,7 @@ WIDGET_SCRIPT = """
 
 FONT_LINKS = (
     '<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;'
-    '0,9..144,600;0,9..144,700;1,9..144,400&family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;'
+    '0,9..144,600;0,9..144,700;1,9..144,400&family=Open+Sans:ital,wght@0,400;0,600;0,700;'
     '1,400&display=swap" rel="stylesheet"/>'
 )
 
