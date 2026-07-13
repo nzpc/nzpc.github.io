@@ -23,11 +23,74 @@
  &lt;a class="nzpc-feature" href="https://nzpc.github.io/guides/open/"&gt;
  &lt;span class="nzpc-feature-icon"&gt;&amp;#128100;&lt;/span&gt;
  &lt;h3&gt;Guide &amp;ndash; Open category&lt;/h3&gt;
- &lt;p&gt;How anyone outside school and tertiary study can enter and compete.&lt;/p&gt;</description></item><item><title>Contest Registration</title><link>https://nzpc.github.io/register/</link><pubDate>Sat, 31 Dec 2022 10:15:13 +0000</pubDate><guid>https://nzpc.github.io/register/</guid><description>&lt;div class="nzpc-docs"&gt;
+ &lt;p&gt;How anyone outside school and tertiary study can enter and compete.&lt;/p&gt;</description></item><item><title>Contest Registration</title><link>https://nzpc.github.io/register/</link><pubDate>Sat, 31 Dec 2022 10:15:13 +0000</pubDate><guid>https://nzpc.github.io/register/</guid><description>&lt;div class="nzpc-docs nzpc-docs--callout"&gt;
  &lt;h2 class="h5"&gt;Registration is handled per site&lt;/h2&gt;
- &lt;p&gt;Registering ahead of time mainly helps your site plan &lt;strong&gt;catering and seating&lt;/strong&gt; &amp;ndash; it is &lt;strong&gt;not required&lt;/strong&gt;. You are welcome to simply turn up on the day and register your team directly on the &lt;a href="https://domserver.csse.canterbury.ac.nz/" target="_blank" rel="noopener"&gt;contest server&lt;/a&gt;.&lt;/p&gt;
- &lt;p&gt;The &lt;strong&gt;method of registration and the cost both depend on your site&lt;/strong&gt;, so please contact your site coordinator (listed below) for the details at your venue.&lt;/p&gt;
- &lt;p class="mb-0"&gt;Usually, teams reserve places through &lt;a href="https://teamup.sppcontests.org/" target="_blank" rel="noopener"&gt;TeamUp&lt;/a&gt; using the code &lt;strong&gt;NZPC2026&lt;/strong&gt;. Your site coordinator will confirm whether this applies and what the entry fee is.&lt;/p&gt;</description></item><item><title>Contest Rules</title><link>https://nzpc.github.io/rules/</link><pubDate>Sat, 31 Dec 2022 10:15:13 +0000</pubDate><guid>https://nzpc.github.io/rules/</guid><description>&lt;p&gt;&lt;em&gt;Document last updated on Thursday, 31 July 2025.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;Whether pre-registration is needed, how it's done, and the entry fee &lt;strong&gt;all depend on your site&lt;/strong&gt; &amp;ndash; contact your site coordinator (below) for details. It's often not required, and mainly helps your site plan catering and seating.&lt;/p&gt;
+ &lt;p class="mb-0"&gt;Most sites reserve places through &lt;a href="https://teamup.sppcontests.org/" target="_blank" rel="noopener"&gt;TeamUp&lt;/a&gt; with the code &lt;code class="nzpc-code"&gt;NZPC2026&lt;/code&gt;; your coordinator will confirm whether this applies.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="table-responsive"&gt;
+ &lt;table class="table table-striped nzpc-table align-middle"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th scope="col"&gt;Site&lt;/th&gt;
+ &lt;th scope="col"&gt;University / Host&lt;/th&gt;
+ &lt;th scope="col"&gt;Contact Person&lt;/th&gt;
+ &lt;th scope="col"&gt;More Information&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ 
+ &lt;tr&gt;
+ &lt;td&gt;Auckland&lt;/td&gt;
+ &lt;td&gt;University of Auckland&lt;/td&gt;
+ &lt;td&gt;&lt;a href="mailto:marc.vinyals@auckland.ac.nz"&gt;Marc Vinyals&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://www.cs.auckland.ac.nz/our_department/prog_contest/" target="_blank" rel="noopener"&gt;Site Page&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ &lt;td&gt;Hamilton&lt;/td&gt;
+ &lt;td&gt;University of Waikato&lt;/td&gt;
+ &lt;td&gt;&lt;a href="mailto:tomlevy93@gmail.com"&gt;Tom Levy&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://nzpc-hamilton.github.io/" target="_blank" rel="noopener"&gt;Site Page&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ &lt;td&gt;Wellington&lt;/td&gt;
+ &lt;td&gt;Wellington Institute of Technology&lt;/td&gt;
+ &lt;td&gt;&lt;a href="mailto:Chalinor.Baliuag@weltec.ac.nz"&gt;Chalinor Baliuag&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://nzpc.github.io/sites/weltec/"&gt;Site Page&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ &lt;td&gt;Christchurch&lt;/td&gt;
+ &lt;td&gt;University of Canterbury&lt;/td&gt;
+ &lt;td&gt;&lt;a href="mailto:ke.he@canterbury.ac.nz"&gt;Ke He&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="http://www.csse.canterbury.ac.nz/richard.lobb/nzpc.html" target="_blank" rel="noopener"&gt;Site Page&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ &lt;td&gt;Dunedin&lt;/td&gt;
+ &lt;td&gt;University of Otago&lt;/td&gt;
+ &lt;td&gt;&lt;a href="mailto:tony.savarimuthu@otago.ac.nz,zhiyi.huang@otago.ac.nz"&gt;Tony Savarimuthu/Zhiyi Huang&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="http://www.cs.otago.ac.nz/staffpriv/dme/contest/" target="_blank" rel="noopener"&gt;Site Page&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ &lt;td&gt;Invercargill&lt;/td&gt;
+ &lt;td&gt;James Hargest College&lt;/td&gt;
+ &lt;td&gt;&lt;a href="mailto:sgreeff@jameshargest.school.nz"&gt;Sarah Greeff&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://projectspace.nz/jameshargestschool/jhc/nzpc/" target="_blank" rel="noopener"&gt;Site Page&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ 
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;div class="nzpc-docs"&gt;
+ &lt;h2 class="h5"&gt;Before you register&lt;/h2&gt;
+ &lt;p class="mb-0"&gt;Read the &lt;a href="https://nzpc.github.io/documentation/"&gt;contest documentation&lt;/a&gt; &amp;ndash; the rules and the registration guide for your category &amp;ndash; before contest day.&lt;/p&gt;</description></item><item><title>Contest Rules</title><link>https://nzpc.github.io/rules/</link><pubDate>Sat, 31 Dec 2022 10:15:13 +0000</pubDate><guid>https://nzpc.github.io/rules/</guid><description>&lt;p&gt;&lt;em&gt;Document last updated on Thursday, 31 July 2025.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="contest-categories-and-grades"&gt;Contest categories and grades&lt;/h2&gt;
 &lt;p&gt;This contest has five categories of entry. Teams compete only against teams from the same category – there are thus five winners.&lt;/p&gt;
 &lt;ul&gt;

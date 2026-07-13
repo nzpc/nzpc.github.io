@@ -17,8 +17,8 @@
   --nzpc-line: #e4e6ef;
   --nzpc-bg: #f6f7fb;
   --nzpc-card: #ffffff;
-  --nzpc-font-body: "Libertinus Serif", Georgia, "Times New Roman", serif;
-  --nzpc-font-display: "Fraunces", "Libertinus Serif", Georgia, serif;
+  --nzpc-font-body: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --nzpc-font-display: "Fraunces", Georgia, "Times New Roman", serif;
   --nzpc-radius: .75rem;
   --nzpc-radius-lg: 1.1rem;
   --nzpc-shadow: 0 1px 2px rgba(26, 33, 86, .06), 0 8px 24px rgba(26, 33, 86, .08);
@@ -271,8 +271,40 @@ main.container > table tbody tr:last-child td { border-bottom: none; }
   border-radius: var(--nzpc-radius);
   padding: 1.25rem 1.5rem;
   margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 .nzpc-docs h2 { color: var(--nzpc-primary); margin-top: 0; }
+
+/* Callout variant: leading info icon on the heading + tidier paragraph rhythm */
+.nzpc-docs--callout { position: relative; }
+.nzpc-docs--callout h2 {
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  margin-bottom: .75rem;
+}
+.nzpc-docs--callout h2::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: var(--nzpc-secondary);
+  -webkit-mask: no-repeat center / contain;
+  mask: no-repeat center / contain;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.93 4.588a.905.905 0 1 1-1.86 0 .905.905 0 0 1 1.86 0zM7 7h1.3a.4.4 0 0 1 .4.4V12h.8a.4.4 0 0 1 .4.4v.2a.4.4 0 0 1-.4.4H6.5a.4.4 0 0 1-.4-.4v-.2a.4.4 0 0 1 .4-.4h.8V8.2h-.3a.4.4 0 0 1-.4-.4v-.4A.4.4 0 0 1 7 7z'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.93 4.588a.905.905 0 1 1-1.86 0 .905.905 0 0 1 1.86 0zM7 7h1.3a.4.4 0 0 1 .4.4V12h.8a.4.4 0 0 1 .4.4v.2a.4.4 0 0 1-.4.4H6.5a.4.4 0 0 1-.4-.4v-.2a.4.4 0 0 1 .4-.4h.8V8.2h-.3a.4.4 0 0 1-.4-.4v-.4A.4.4 0 0 1 7 7z'/%3E%3C/svg%3E");
+}
+.nzpc-docs--callout p + p { margin-top: .6rem; }
+.nzpc-code {
+  font-family: SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .95em;
+  font-weight: 600;
+  color: var(--nzpc-secondary-dark);
+  background: var(--nzpc-secondary-tint);
+  border: 1px solid var(--nzpc-secondary);
+  border-radius: .35rem;
+  padding: .1rem .45rem;
+}
 
 /* --------------------------------------------------------------------------
    Home: feature grid of section links
@@ -464,10 +496,10 @@ main.container img { max-width: 100%; height: auto; }
   max-width: 1140px;
   margin: 0 auto 2rem;
   padding: 0 12px;
-  font-family: "Libertinus Serif", Georgia, "Times New Roman", serif;
+  font-family: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
 .nzpc-wt-title {
-  font-family: "Fraunces", "Libertinus Serif", Georgia, serif;
+  font-family: "Fraunces", Georgia, "Times New Roman", serif;
   color: #1a2156;
   font-weight: 700;
   letter-spacing: -.01em;
@@ -622,7 +654,7 @@ table.scoreboard .heart { display: none; }
   box-shadow: 0 1px 12px rgba(26, 33, 86, .05);
   margin: 0 0 1.5rem 0;
   padding: .75rem 0;
-  font-family: "Libertinus Serif", Georgia, "Times New Roman", serif;
+  font-family: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
 .nzpc-archive-inner {
   max-width: 1140px;
@@ -636,7 +668,7 @@ table.scoreboard .heart { display: none; }
 .nzpc-archive-header a { text-decoration: none !important; }
 .nzpc-archive-brand { display: flex; align-items: center; gap: .5rem; margin-right: auto; }
 .nzpc-archive-brand img { height: 44px !important; width: auto !important; }
-.nzpc-archive-brand span { font-family: "Fraunces", "Libertinus Serif", Georgia, serif; color: #1a2156; font-weight: 700; font-size: 1.1rem; }
+.nzpc-archive-brand span { font-family: "Fraunces", Georgia, serif; color: #1a2156; font-weight: 700; font-size: 1.1rem; }
 .nzpc-archive-nav { display: flex; gap: .35rem; flex-wrap: wrap; }
 .nzpc-archive-nav a {
   color: #1a2156 !important;
@@ -650,7 +682,7 @@ table.scoreboard .heart { display: none; }
   padding: 1rem 0;
   background: #1a2156 !important;
   color: #fff !important;
-  font-family: "Libertinus Serif", Georgia, "Times New Roman", serif;
+  font-family: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   border-top: 4px solid #c03b2f;
 }
 .nzpc-archive-footer .nzpc-archive-inner { color: #fff !important; }
