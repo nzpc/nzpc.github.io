@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term"]
   domjudgeServerURL = "https://domserver.csse.canterbury.ac.nz/"
 
   # prog4fun: past questions and practice.
-  prog4funURL = "https://prog4fun.csse.canterbury.ac.nz/"
+  prog4funURL = "https://prog4fun.csse.canterbury.ac.nz/course/view.php?id=2"
 
   # SPAR contest (overseas teams; same problem set, runs concurrently).
   sparURL = "https://sppcontests.org/spar-2026/"
