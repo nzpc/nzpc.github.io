@@ -53,7 +53,7 @@
   director:
     name: Tony Savarimuthu/Zhiyi Huang
     email: tony.savarimuthu@otago.ac.nz,zhiyi.huang@otago.ac.nz
-  localPage: http://www.cs.otago.ac.nz/staffpriv/dme/contest/
+  localPage: https://www.otago.ac.nz/school-of-computing/community/programming-contests
   reserve:
     method: email
 
