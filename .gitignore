@@ -2,3 +2,5 @@
 .hugo_build.lock
 public
 public_check
+.mimocode
+.vscode

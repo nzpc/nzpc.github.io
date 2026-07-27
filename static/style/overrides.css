@@ -687,3 +687,77 @@ table.scoreboard .heart { display: none; }
 }
 .nzpc-archive-footer .nzpc-archive-inner { color: #fff !important; }
 .nzpc-archive-footer a { color: #fff !important; }
+
+/* --------------------------------------------------------------------------
+   Site-wide memoriam banner
+   -------------------------------------------------------------------------- */
+.nzpc-memoriam-banner {
+  margin: -1.5rem 0 1.5rem;
+  background: #fff;
+  border-bottom: 1px solid var(--nzpc-line);
+  box-shadow: 0 1px 10px rgba(26, 33, 86, .05);
+}
+
+.nzpc-memoriam-banner-inner {
+  display: flex;
+  align-items: baseline;
+  gap: .75rem;
+  padding-top: .55rem;
+  padding-bottom: .55rem;
+  font-size: .95rem;
+}
+
+.nzpc-memoriam-banner h2 {
+  margin: 0;
+  color: var(--nzpc-secondary);
+  font-family: var(--nzpc-font-body);
+  font-size: .95rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.nzpc-memoriam-banner p {
+  margin: 0;
+  color: var(--nzpc-muted);
+  line-height: 1.45;
+}
+
+.nzpc-memoriam-banner a {
+  margin-left: auto;
+  color: var(--nzpc-secondary);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.nzpc-memoriam-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: .75rem 0;
+  border-radius: var(--nzpc-radius);
+}
+
+.nzpc-person-meta {
+  color: var(--nzpc-muted);
+}
+
+.nzpc-about-memoriam figure {
+  margin: 1rem 0 1.5rem;
+}
+
+.nzpc-about-memoriam figcaption {
+  color: var(--nzpc-muted);
+  font-size: .92rem;
+}
+
+@media (max-width: 900px) {
+  .nzpc-memoriam-banner-inner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: .2rem;
+  }
+
+  .nzpc-memoriam-banner a {
+    margin-left: 0;
+  }
+}

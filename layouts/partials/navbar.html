@@ -14,6 +14,7 @@
         <li class="nav-item"><a href="/" class="nav-link px-3{{ if or (eq $path "/") (hasPrefix $path "/categories") (hasPrefix $path "/sites") }} active{{ end }}">Home</a></li>
         <li class="nav-item"><a href="/register/" class="nav-link px-3{{ if hasPrefix $path "/register" }} active{{ end }}">Registration</a></li>
         <li class="nav-item"><a href="/documentation/" class="nav-link px-3{{ if or (hasPrefix $path "/documentation") (hasPrefix $path "/rules") (hasPrefix $path "/guides") }} active{{ end }}">Documentation</a></li>
+        <li class="nav-item"><a href="/about/" class="nav-link px-3{{ if hasPrefix $path "/about" }} active{{ end }}">About</a></li>
         <li class="nav-item"><a href="/results/" class="nav-link px-3{{ if hasPrefix $path "/results" }} active{{ end }}">Results</a></li>
       </ul>
     </div>
